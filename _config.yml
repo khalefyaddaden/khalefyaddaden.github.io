@@ -20,12 +20,13 @@
 
 title: Khalef Yaddaden
 email: k.yaddaden@zohomail.eu
-
-description: >- # this means to ignore newlines until "baseurl:"
+shortbio:
   Khalef Yaddaden is a doctorant at the university of Strasbourg. Under the supervision
   of Benjamin Enriquez, he works on the geometric interpretation of double shuffle
   relations of special values of multiple polylogarithms. His main interests are
   Hopf algebras, group schemes and Lie algebras.
+description: >- # this means to ignore newlines until "baseurl:"
+  Welcome to Khalef Yaddaden's official webpage.
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://khalefyaddaden.github.io" # the base hostname & protocol for your site, e.g. http://example.com
