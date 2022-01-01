@@ -21,8 +21,8 @@
 title: Khalef Yaddaden
 email: k.yaddaden@zohomail.eu
 Curriculum:
-Name: Curriculum vitae
-url: https://irma.math.unistra.fr/IMG/pdf/yaddaden.pdf
+  Name: Curriculum vitae
+  url: https://irma.math.unistra.fr/IMG/pdf/yaddaden.pdf
 description: >- # this means to ignore newlines until "baseurl:"
   Khalef Yaddaden is a doctorant at the university of Strasbourg. Under the supervision
   of Benjamin Enriquez, he works on the geometric interpretation of double shuffle
