@@ -40,11 +40,6 @@ github_username:  khalefyaddaden
 linkedin_username: khalef-yaddaden-ab558a166
 
 langs: ["en", "fr"]
-defaults:
-  - scope:
-      path: ""
-    values:
-      lang: "en"
 
 # Build settings
 theme: academic
