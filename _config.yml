@@ -32,7 +32,7 @@ twitter_username: YaddadenK
 github_username:  khalefyaddaden
 
 # Build settings
-theme: minima
+theme: academic
 plugins:
   - jekyll-feed
 
