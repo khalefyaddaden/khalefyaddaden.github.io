@@ -29,7 +29,7 @@ shortbio:
   de Benjamin Enriquez, il travaille sur l'interprétation géométrique des relations
   de double mélange de valeurs spéciales de polylogarithmes multiples. Il s'intéresse
   principalement aux algèbres de Hopf, les schémas de groupe et les algèbres de Lie."
-description: >- # this means to ignore newlines until "baseurl:"
+description: #>- # this means to ignore newlines until "baseurl:"
   en: "Welcome to Khalef Yaddaden's official webpage."
   fr: "Bienvenue sur le site officiel de Khalef Yaddaden."
 
