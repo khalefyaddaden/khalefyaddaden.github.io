@@ -20,9 +20,9 @@ end
 group :jekyll_plugins do
   gem 'jekyll-data'
 end
-group :jekyll_plugins do
-  gem 'jekyll-last-modified-at'
-end
+#group :jekyll_plugins do
+#  gem 'jekyll-last-modified-at'
+#end
 
 
 gem "redcarpet"
