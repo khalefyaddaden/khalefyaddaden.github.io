@@ -30,7 +30,8 @@ shortbio:
   de double mélange de valeurs spéciales de polylogarithmes multiples. Il s'intéresse
   principalement aux algèbres de Hopf, les schémas de groupe et les algèbres de Lie."
 description: >- # this means to ignore newlines until "baseurl:"
-  Welcome to Khalef Yaddaden's official webpage.
+  en: "Welcome to Khalef Yaddaden's official webpage."
+  fr: "Bienvenue sur le site officiel de Khalef Yaddaden."
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://khalefyaddaden.github.io" # the base hostname & protocol for your site, e.g. http://example.com
