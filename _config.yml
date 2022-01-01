@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: *Khalef* Yaddaden
+title: Khalef Yaddaden
 email: k.yaddaden@zohomail.eu
 shortbio:
   en: "Khalef Yaddaden is a doctorant at the university of Strasbourg. Under the supervision
