@@ -32,7 +32,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://khalefyaddaden.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: YaddadenK
 github_username:  khalefyaddaden
-linkedin_username: Khalef YADDADEN
+linkedin_username: khalef-yaddaden-ab558a166
 
 # Build settings
 theme: academic
