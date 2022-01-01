@@ -23,7 +23,7 @@ email: k.yaddaden@zohomail.eu
 description: >- # this means to ignore newlines until "baseurl:"
   Khalef Yaddaden is a doctorant at the university of Strasbourg. Under the supervision
   of Benjamin Enriquez, he works on the geometric interpretation of double shuffle
-  relations of special values of multiple polylogarithm. His main interests are
+  relations of special values of multiple polylogarithms. His main interests are
   Hopf algebras, group schemes and Lie algebras.
 
 baseurl: "" # the subpath of your site, e.g. /blog
