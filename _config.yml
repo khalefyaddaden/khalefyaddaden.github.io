@@ -33,8 +33,10 @@ shortbio:
   de double mélange de valeurs spéciales de polylogarithmes multiples. Il s'intéresse
   principalement aux algèbres de Hopf, les schémas de groupe et les algèbres de Lie."
 description:
-  en: "Welcome to Khalef Yaddaden's official webpage."
-  fr: "Bienvenue sur le site officiel de Khalef Yaddaden."
+  en: "Welcome to Khalef Yaddaden's website. You will find here my reaserch and my teaching
+  in mathematics."
+  fr: "Bienvenue sur le site de Khalef Yaddaden. Vous trouverez ici mes recherches et mes
+  enseignements en mathématiques."
 #baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://khalefyaddaden.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: YaddadenK
