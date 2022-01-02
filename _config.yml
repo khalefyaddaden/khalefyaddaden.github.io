@@ -47,7 +47,6 @@ langs: ["en", "fr"]
 # Build settings
 theme: academic
 plugins:
-  - jekyll-feed
   - jekyll-last-modified-at
 
 # Exclude from processing.
