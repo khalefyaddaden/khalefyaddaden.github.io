@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Researche
+title: Research
 lang: en
 ---
 I am currently working on my thesis on the topologic interpretation of the double shuffle relations between

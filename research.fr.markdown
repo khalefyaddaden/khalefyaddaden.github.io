@@ -10,5 +10,3 @@ Je m'intéresse principalement aux algèbres de Hopf, schémas de groupe et aux 
 
 ## Préprints
 - A crossed product interpretation of the double shuffle Lie algebra attached to an abelian group. ([arXiv](https://arxiv.org/abs/2112.14140))
-
-Ma recherch est basée sur les algèbres de Hopf.
