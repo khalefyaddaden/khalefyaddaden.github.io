@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Enseignements
+title: Enseignement
 lang: fr
 ---
 
