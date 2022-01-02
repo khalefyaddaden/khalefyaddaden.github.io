@@ -6,7 +6,7 @@ layout: about
 lang: en
 ---
 I'm a PhD student in mathematics at Institut de Recherche en Mathématiques Avancées (IRMA)
-as part of the team Algèbre, Topologie, Group Quantiques et Représentations (ATGQR).
+in Strasbourg (France) as part of the team Algèbre, Topologie, Group Quantiques et Représentations (ATGQR).
 
 I'm working under the supervision of Benjamin Enriquez on the subject entitled:
 "Topologic interpretation of double shuffle relations of special polylogarithm values".
