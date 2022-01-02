@@ -18,21 +18,34 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Your awesome title
-email: your-email@example.com
-description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+title: Khalef Yaddaden
+email: k.yaddaden@zohomail.eu
+shortbio:
+  en: "Khalef Yaddaden is a doctorant at the university of Strasbourg. Under the supervision
+  of Benjamin Enriquez, he works on the geometric interpretation of double shuffle
+  relations of special values of multiple polylogarithms. His main interests are
+  Hopf algebras, group schemes and Lie algebras."
+  fr: "Khalef Yaddaden est doctorant à l'université de Strasbourg. Sous la direction
+  de Benjamin Enriquez, il travaille sur l'interprétation géométrique des relations
+  de double mélange de valeurs spéciales de polylogarithmes multiples. Il s'intéresse
+  principalement aux algèbres de Hopf, les schémas de groupe et les algèbres de Lie."
+description:
+  en: "Welcome to Khalef Yaddaden's official webpage."
+  fr: "Bienvenue sur le site officiel de Khalef Yaddaden."
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+url: "https://khalefyaddaden.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: YaddadenK
+github_username:  khalefyaddaden
+linkedin_username: khalef-yaddaden-ab558a166
+
+langs: ["en", "fr"]
 
 # Build settings
 theme: academic
 plugins:
   - jekyll-feed
+  - jekyll-last-modified-at
 
 # Exclude from processing.
 # The following items will not be processed, by default.
