@@ -31,5 +31,6 @@
     {% endif %}
 
   </div>
-
+  {% for my_page in site.pages %}
+  {% if my_page.hide_header_link %}{% continue %}{% endif %}
 </header>
