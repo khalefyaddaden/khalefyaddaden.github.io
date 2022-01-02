@@ -24,13 +24,11 @@
     </nav>
     {% endif %}
     </div>
-
+    
     {% assign nblangs = site.langs | size %}
     {% if nblangs > 1 %}
       {% include _i18n/lang_selector.html %}
     {% endif %}
-
+    
   </div>
-  {% for my_page in site.pages %}
-  {% if my_page.hide_header_link %}{% continue %}{% endif %}
 </header>
