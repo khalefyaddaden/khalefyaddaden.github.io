@@ -17,9 +17,6 @@ cta:
   post:
     fr: "Le post vous a plu ?"
     en: "Did you like that post?"
-  rss:
-    fr: ["Vous pouvez vous abonner au", "fil RSS", "du blog"]
-    en: ["You can suscribe to the", "RSS feed", ""]
   twitter:
     fr: ["ou suivre", "sur Twitter"]
     en: ["or follow", "on Twitter"]
@@ -32,9 +29,6 @@ by:
 legal:
   fr: ["par", "est placé sous licence"]
   en: ["by", "is available under the license"]
-feed:
-  fr: "flux RSS"
-  en: "RSS feed"
 menu:
   fr: "Menu :"
   en: "Menu:"
