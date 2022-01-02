@@ -5,7 +5,9 @@
 layout: about
 lang: en
 ---
-I'm a PhD student in mathematics at Institut de Recherche en Mathématiques Avancées (IRMA)
+# Khalef Yaddaden
+
+PhD student in mathematics at Institut de Recherche en Mathématiques Avancées (IRMA)
 in Strasbourg (France) as part of the team Algèbre, Topologie, Group Quantiques et Représentations (ATGQR).
 
 I'm working under the supervision of Benjamin Enriquez on the subject entitled:
