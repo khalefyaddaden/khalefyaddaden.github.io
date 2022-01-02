@@ -47,7 +47,6 @@ langs: ["en", "fr"]
 theme: academic
 plugins:
   - jekyll-last-modified-at
-  - jekyll-feed
 
 # Exclude from processing.
 # The following items will not be processed, by default.
