@@ -8,7 +8,7 @@ lang: en
 # Khalef Yaddaden
 
 PhD student in mathematics at Institut de Recherche en Mathématiques Avancées (IRMA)
-in Strasbourg (France) as part of the team Algèbre, Topologie, Group Quantiques et Représentations (ATGQR).
+in Strasbourg (France) as part of the team Algebra, Topology, Quantum Groups and Representations.
 
 I'm working under the supervision of Benjamin Enriquez on the subject entitled:
 "Topologic interpretation of the double shuffle relations between special values of multiple polylogarithms".
