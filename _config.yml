@@ -22,16 +22,7 @@ title: Khalef Yaddaden
 email: kyaddaden@math.unistra.fr
 curriculum:
   name: Curriculum vitae
-  url: https://khalefyaddaden.github.io/cv_yaddaden_2022.pdf 
-shortbio:
-  en: "Khalef Yaddaden is a doctorant at the university of Strasbourg. Under the supervision
-  of Benjamin Enriquez, he works on the geometric interpretation of double shuffle
-  relations of special values of multiple polylogarithms. His main interests are
-  Hopf algebras, group schemes and Lie algebras."
-  fr: "Khalef Yaddaden est doctorant à l'université de Strasbourg. Sous la direction
-  de Benjamin Enriquez, il travaille sur l'interprétation géométrique des relations
-  de double mélange de valeurs spéciales de polylogarithmes multiples. Il s'intéresse
-  principalement aux algèbres de Hopf, les schémas de groupe et les algèbres de Lie."
+  url: https://khalefyaddaden.github.io/cv_yaddaden_2022.pdf
 description:
   en: "Welcome to Khalef Yaddaden's website. You will find here my reaserch and my teaching
   in mathematics."
@@ -41,7 +32,7 @@ description:
 url: "https://khalefyaddaden.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: YaddadenK
 github_username:  khalefyaddaden
-linkedin_username: khalef-yaddaden-ab558a166
+linkedin_username: khalef-yaddaden
 
 langs: ["en", "fr"]
 
