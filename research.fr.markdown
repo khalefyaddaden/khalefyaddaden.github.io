@@ -23,4 +23,4 @@ Initiation à la théorie des invariants géométriques à la Mumford (1965) qui
 Etude de la structure de groupoïde d'un point de vue ensembliste et la munir d'une structure de variété différentiable et faire agir de telles structures sur des variétés différentiables. Enfin, munir un groupoïde de Lie d'une métrique riemannienne qui respecte les métriques de ses structures sous-jacentes. Ce mémoire est basé sur [ce papier]{https://arxiv.org/abs/1404.5989}.
 
 ## Préprints
-- **2021 : ** A crossed product interpretation of the double shuffle Lie algebra attached to an abelian group. ([arXiv 2112.14140](https://arxiv.org/abs/2112.14140))
+- **2021 :** A crossed product interpretation of the double shuffle Lie algebra attached to an abelian group. ([arXiv 2112.14140](https://arxiv.org/abs/2112.14140))
