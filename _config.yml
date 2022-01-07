@@ -41,9 +41,6 @@ theme: academic
 plugins:
   - jekyll-last-modified-at
 
-- name: Deployment Status Update
-  uses: rsotnychenko/deployment-status-update@0.2.0
-
 
 # Exclude from processing.
 # The following items will not be processed, by default.
