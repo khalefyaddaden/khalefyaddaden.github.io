@@ -74,7 +74,7 @@ PLATFORMS
 
 DEPENDENCIES
   academic
-  jekyll
+  jekyll (~> 3.9.0)
   jekyll-last-modified-at
   redcarpet
   tzinfo (~> 1.2)
