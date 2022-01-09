@@ -274,6 +274,7 @@ PLATFORMS
 DEPENDENCIES
   academic
   github-pages (~> 219)
+  jekyll-data
   kramdown-parser-gfm
   tzinfo (~> 1.2)
   tzinfo-data
