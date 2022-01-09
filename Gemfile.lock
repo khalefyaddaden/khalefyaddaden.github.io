@@ -1,6 +1,8 @@
 GEM
   remote: https://rubygems.org/
   specs:
+    academic (0.5.8)
+      jekyll-data (~> 1.0)
     activesupport (7.0.1)
       concurrent-ruby (~> 1.0, >= 1.0.2)
       i18n (>= 1.6, < 2)
@@ -132,6 +134,8 @@ GEM
       commonmarker (~> 0.17.6)
       jekyll-commonmark (~> 1.2)
       rouge (>= 2.0, < 4.0)
+    jekyll-data (1.1.1)
+      jekyll (>= 3.3, < 5.0.0)
     jekyll-default-layout (0.1.4)
       jekyll (~> 3.0)
     jekyll-feed (0.15.1)
@@ -268,8 +272,9 @@ PLATFORMS
   x86_64-linux
 
 DEPENDENCIES
+  academic
   github-pages (~> 219)
-  jekyll-theme-cayman
+  jekyll-data
   kramdown-parser-gfm
   tzinfo (~> 1.2)
   tzinfo-data
