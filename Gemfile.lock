@@ -1,8 +1,6 @@
 GEM
   remote: https://rubygems.org/
   specs:
-    academic (0.5.8)
-      jekyll-data (~> 1.0)
     activesupport (7.0.1)
       concurrent-ruby (~> 1.0, >= 1.0.2)
       i18n (>= 1.6, < 2)
@@ -272,7 +270,6 @@ PLATFORMS
   x86_64-linux
 
 DEPENDENCIES
-  academic
   github-pages (~> 219)
   jekyll-data
   kramdown-parser-gfm
