@@ -21,7 +21,7 @@
 title: Khalef Yaddaden
 email: kyaddaden@math.unistra.fr
 curriculum:
-  name: Curriculum vitae
+  name: "Curriculum vitae"
   url: https://khalefyaddaden.github.io/cv_yaddaden_2022.pdf
 description:
   en: "Welcome to Khalef Yaddaden's website. You will find here my reaserch and my teaching
@@ -39,8 +39,8 @@ langs: ["en", "fr"]
 # Build settings
 remote_theme: gaalcaras/academic
 # theme: academic
-plugins:
-  - jekyll-last-modified-at
+#plugins:
+#  - jekyll-last-modified-at
 
 
 # Exclude from processing.
