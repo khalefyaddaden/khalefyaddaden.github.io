@@ -6,8 +6,7 @@ layout: about
 lang: en
 ---
 
-PhD student in mathematics at Institut de Recherche en Mathématiques Avancées (IRMA)
-in Strasbourg, France as part of the team Algebra, Topology, Quantum Groups and Representations.
+PhD student in mathematics at *Institut de Recherche en Mathématiques Avancées* ([IRMA](http://irma.math.unistra.fr)) in Strasbourg (France) as part of the team *Algebra, Topology, Quantum Groups and Representations* ([ATGQR](http://irma.math.unistra.fr/rubrique128.html)).
 
-I'm working under the supervision of Benjamin Enriquez on the subject entitled:
-"Topologic interpretation of the double shuffle relations between special values of multiple polylogarithms".
+I'm working under the supervision of *Benjamin Enriquez* on the subject entitled:
+"*Topologic interpretation of the double shuffle relations between special values of multiple polylogarithms*".

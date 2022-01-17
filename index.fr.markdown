@@ -6,9 +6,7 @@ layout: about
 lang: fr
 ---
 
-Doctorant en mathématiques à l'Institut de Recherche en Mathématiques Avancées (IRMA)
-à Strasbourg, France au sein de l'équipe d'Algèbre, Topologie, Group Quantiques et Représentations.
+Doctorant en mathématiques à l'*Institut de Recherche en Mathématiques Avancées* ([IRMA](http://irma.math.unistra.fr)) à Strasbourg (France) au sein de l'équipe d'*Algèbre, Topologie, Group Quantiques et Représentations* ([ATGQR](http://irma.math.unistra.fr/rubrique128.html)).
 
-Je travaille sous la direction de Benjamin Enriquez sur le sujet intitulé:
-"Interprétation topologique des relations de double mélange entre valeurs
-spéciales de polylogarithmes multiples".
+Je travaille sous la direction de *Benjamin Enriquez* sur le sujet intitulé:
+"*Interprétation topologique des relations de double mélange entre valeurs spéciales de polylogarithmes multiples*".
