@@ -19,7 +19,7 @@ Initiation to Mumford's Geometric Invariant Theory which is caracterized by acti
 
 *Supervisor :* Yacine Aït Amrane.
 
-We study of the set-theoric groupoid structure and equip it with differential structure obtaining what is called a Lie groupoid. Then we consider its action on a smooth manifold. This aims to equip a Lie groupoid with a Riemannian metric with respect to the underlying metrics on the structure. This work is based on [this paper](https://arxiv.org/abs/1404.5989).
+We study the set-theoric groupoid structure and equip it with differential structure obtaining what is called a Lie groupoid. Then we consider its action on a smooth manifold. This aims to equip a Lie groupoid with a Riemannian metric with respect to the underlying metrics on the structure. This work is based on [this paper](https://arxiv.org/abs/1404.5989).
 
 ## Preprints
 - **2021 :** A crossed product interpretation of the double shuffle Lie algebra attached to an abelian group. ([arXiv 2112.14140](https://arxiv.org/abs/2112.14140))
