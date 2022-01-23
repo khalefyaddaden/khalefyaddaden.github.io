@@ -9,13 +9,13 @@ multiple polylogarithme values at roots of unity. My field of reseach is an inte
 ## Master's Theses
 Prior ot my Ph. D. I did two M. Sc. resulting in two Master theses described as follows:
 
-- **2018 :** Stratification of reductive group actions on affine varieties.
+- **2018 :** [Stratification of reductive group actions on affine varieties](https://khalefyaddaden.github.io/memoire_m2_unistra.pdf)
 
 *Supervisor:* Daniel Panazolo.
 
 Initiation to Mumford's Geometric Invariant Theory which is caracterized by actions of reductive groups on algebraic varieties. Then give a decomposition of the algebraic variety into a finite number of partitions which allows to a better understanding of the variety. This work is based on [this paper](https://arxiv.org/abs/1210.6811) of Victoria Hosking.
 
-- **2017 :** Métriques riemanniennes sur les groupoïdes de Lie
+- **2017 :** [Métriques riemanniennes sur les groupoïdes de Lie](https://khalefyaddaden.github.io/memoire_m2_usthb.pdf)
 
 *Supervisor :* Yacine Aït Amrane.
 

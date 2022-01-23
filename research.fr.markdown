@@ -9,13 +9,13 @@ des polylogarithmes multiples aux racines de l'unité. Mon domaine de recherche 
 ## Mémoires de Master
 Avant de démarrer une thèse de doctorat, j'ai obtenu deux masters. Ainsi, j'ai travaillé et rédigé deux mémoires de master dont voici la description:
 
-- **2018 :** Stratification des actions de groupes réductifs sur des variétés affines.
+- **2018 :** [Stratification des actions de groupes réductifs sur des variétés affines](https://khalefyaddaden.github.io/memoire_m2_unistra.pdf)
 
 *Encadré par :* Daniel Panazolo.
 
 Ce mémoire a pour objectif l'initiation à la théorie des invariants géométriques introduite par Mumford. Ces invariants sont caractérisés par les actions de groupes réductifs sur des variétés algébriques. On donne alors une décomposition de la variété algébrique en un nombre fini de partitions qui permettent de comprendre mieux cette variété. Ce mémoire est basé sur [ce papier](https://arxiv.org/abs/1210.6811) de Victoria Hoskins.
 
-- **2017 :** Métriques riemanniennes sur les groupoïdes de Lie
+- **2017 :** [Métriques riemanniennes sur les groupoïdes de Lie](https://khalefyaddaden.github.io/memoire_m2_usthb.pdf)
 
 *Encadré par :* Yacine Aït Amrane.
 
