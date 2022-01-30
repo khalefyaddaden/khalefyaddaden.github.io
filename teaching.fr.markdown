@@ -4,9 +4,7 @@ title: Enseignement
 lang: fr
 ---
 
-Depuis octobre 2019, j'enseigne à l'*UFR de mathématiques et informatique* de l'université de Strasbourg (France)
-dans le cadre de missions d'enseignement répartis sur les deux semestres de l'année universitaire.
-Cet enseignement est organisé comme suit:
+Depuis octobre 2019, j'enseigne à l'*UFR de mathématiques et informatique* de l'université de Strasbourg (France). La répartition de mes missions d'enseignement sur les deux semestres de l'année se présente comme suit:
 - **Automne** (24h) : [Mathématiques élémentaires](https://mathinfo.unistra.fr/formations/licence/mathematiques/rof/ME14/FRUAI0673021VCOEN896/) (Mathématiques et informatiques L1).
 - **Printemps** (34h) : [Algèbre : Anneaux et corps](https://mathinfo.unistra.fr/formations/licence/mathematiques/rof/ME14/FRUAI0673021VCOEN28910/) (Mathématiques Pures L3).
 

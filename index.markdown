@@ -10,6 +10,6 @@ PhD student in mathematics at *Institut de Recherche en Mathématiques Avancées
 
 I'm working under the supervision of *Benjamin Enriquez* on the subject entitled:
 "*Topologic interpretation of the double shuffle relations between special values of multiple polylogarithms*".
-Essentially, the thesis is about studying and understanding Racinet's harmonique coproduct introduced in this [paper](http://www.numdam.org/item/PMIHES_2002__95__185_0.pdf).
+Essentially, the thesis is about studying and understanding Racinet's harmonic coproduct introduced in [this paper](http://www.numdam.org/item/PMIHES_2002__95__185_0.pdf).
 
 My areas of interest are Algebra and Topology. I'm particularly interested in Hopf algebras, group schemes and Lie algebras.
