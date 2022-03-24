@@ -42,8 +42,6 @@ remote_theme: khalefyaddaden/khalefyaddaden.github.io
 #  - jekyll-feed
 
 markdown: kramdown
-kramdown:
-   math_engine: mathjax
 
 # Exclude from processing.
 # The following items will not be processed, by default.
