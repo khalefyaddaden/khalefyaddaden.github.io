@@ -6,6 +6,11 @@ lang: fr
 Je travaille actuellement sur ma thèse portant sur l'interprétation topologique des relations de double mélange
 des polylogarithmes multiples aux racines de l'unité. Mon domaine de recherche est à l'intersection entre la topologie algébrique, la géométrie algébrique et les catégories. De façon plus précise, mon travail actuel traîte de l'étude et la compréhension du coproduit harmonique de Racinet décrivant qui encode les relations de double mélange de polylogarithmes multiples comme des opérations algébriques sur une algèbres de séries formelles à variables non commutatives. Mon travail s'inspire de [ce papier](https://arxiv.org/abs/1803.10151) de Enriquez et Furusho.
 
+## Exposés
+### Colloque tournant du GDR Théorie de Lie en Algèbre et Géométrie
+Date : 16 mars 2022
+Titre : Algèbre de Lie des doubles mélanges et produit croisé
+Résumé : Pour chaque entier $N \geq 1$, Racinet a étudié le schéma associé aux relations de double mélange et régularisation entre polylogarithmes multiples aux racines $N$-ièmes de l'unité. Il a montré en particulier que ce schéma possède une structure de torseur sous l'action d'un schéma en groupes, spécialisation pour $G=\mu N$ d'un schéma en groups $\mathsf{DMR}_0^G$ qu'il associe à un groupe abélien fini $G$ quelconque. Enriquez et Furusho ont ensuite identifié l'algèbre de Lie $\mathfrak{dmr}_0^G$ de $\mathsf{DMR}_0^G$ avec l'algèbre de Lie stabilisateur d'un coproduit apparaissant au sein du formalisme de Racinet. On reformule la construction de Racinet en termes de produit croisé. Le coproduit de Racinet s'identifie alors à celui d'une coalgèbre (M^G,Δ^MG) apparaissant dans ce formalisme. Ce cadre permet de plus la construction d'une algèbre de Hopf (W^G,Δ^WG) sur laquelle (M^G,Δ^MG) est un module-coalgèbre, l'ensemble étant muni d'une action de l'algèbre de Lie ambiante. Cela conduit à la construction d'une algèbre de Lie stabilisateur de Δ^WG contenant l'algèbre de Lie stabilisateur de Δ^MG que l'on exprimera au sein du formalisme de Racinet.
 ## Publications
 ### Préprints
 - **2021 :** A crossed product interpretation of the double shuffle Lie algebra attached to an abelian group. ([arXiv 2112.14140](https://arxiv.org/abs/2112.14140))
