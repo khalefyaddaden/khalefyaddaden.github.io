@@ -15,7 +15,7 @@ multiple polylogarithm values at roots of unity. My reseach field is an intersec
 ### Rotating Colloquium of the GDR Lie Theory in Algebra and Geometry
 **Date** : March 16<sup>th</sup>, 2022
 
-**Localtion** : Dijon, France
+**Location** : Dijon, France
 
 **Link** : [https://dubouloz.perso.math.cnrs.fr/Confs/TLAG-2022-Dijon/index.html](https://dubouloz.perso.math.cnrs.fr/Confs/TLAG-2022-Dijon/index.html)
 
