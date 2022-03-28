@@ -4,8 +4,7 @@ title: Recherche
 lang: fr
 katex: yes
 ---
-Je travaille actuellement sur ma thèse portant sur l'interprétation topologique des relations de double mélange
-des polylogarithmes multiples aux racines de l'unité. Mon domaine de recherche est à l'intersection entre la topologie algébrique, la géométrie algébrique et les catégories. De façon plus précise, mon travail actuel traîte de l'étude et la compréhension du coproduit harmonique de Racinet décrivant qui encode les relations de double mélange de polylogarithmes multiples comme des opérations algébriques sur une algèbres de séries formelles à variables non commutatives. Mon travail s'inspire de [ce papier](https://arxiv.org/abs/1803.10151) de Enriquez et Furusho.
+Je travaille actuellement sur ma thèse portant sur les structures algébriques associées aux relations de double mélange entres valeurs polylogrithmes multiples aux racines de l'unité. Mon domaine de recherche est à l'intersection entre la théorie des nombres, la topologie algébrique, la géométrie algébrique et les catégories. De façon plus précise, mon travail actuel traîte de l'étude et la compréhension du coproduit harmonique de Racinet décrivant qui encode les relations de double mélange de polylogarithmes multiples comme des opérations algébriques sur une algèbres de séries formelles à variables non commutatives. Mon travail s'inspire de [ce papier](https://arxiv.org/abs/1803.10151) de Enriquez et Furusho.
 
 ## Publications
 ### Préprints

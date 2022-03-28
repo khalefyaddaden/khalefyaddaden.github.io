@@ -4,8 +4,7 @@ title: Research
 lang: en
 katex: yes
 ---
-I am currently working on my thesis on the topologic interpretation of the double shuffle relations between
-multiple polylogarithm values at roots of unity. My reseach field is an intersection between algebraic topology, algebraic geometry and categories. More precisely, my current work is about studying and understanding Racinet's harmonic coproduct which encode the double shuffle relations between multiple polylogarithm values as algebraic operations on a non commutative formal series algebra. This work is inspired by [this paper](https://arxiv.org/abs/1803.10151) from Enriquez and Furusho.
+I am currently working on my thesis on the Algebraic structures associated to the double shuffle relations between multiple polylogarithm values at roots of unity. My reseach field is at the intersection between number theory, algebraic topology, algebraic geometry and categories. More precisely, my current work is about studying and understanding Racinet's harmonic coproduct which encode the double shuffle relations between multiple polylogarithm values as algebraic operations on a non commutative formal series algebra. This work is inspired by [this paper](https://arxiv.org/abs/1803.10151) from Enriquez and Furusho.
 
 ## Publications
 ### Preprints
