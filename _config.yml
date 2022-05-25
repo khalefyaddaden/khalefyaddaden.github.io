@@ -43,6 +43,11 @@ remote_theme: khalefyaddaden/khalefyaddaden.github.io
 
 markdown: kramdown
 
+plugins:
+  - jekyll-last-modified-at
+# Optional. The default date format, used if none is specified in the tag.
+last-modified-at:
+    date-format: '%d-%b-%y'
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
