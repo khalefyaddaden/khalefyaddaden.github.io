@@ -13,5 +13,3 @@ Je travaille sous la direction de *Benjamin Enriquez* sur le sujet intitulé:
 du corpoduit harmonique de Racinet introduit dans [ce papier](http://www.numdam.org/item/PMIHES_2002__95__185_0.pdf).
 
 Les domaines dans lesquels je me spécialise sont l'algèbre et la topologie. Plus particulièrement, je m'intéresse aux algèbres de Hopf, schémas de groupe et aux algèbres de Lie.
-
-{% last_modified_at %}
