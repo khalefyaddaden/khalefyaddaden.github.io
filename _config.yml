@@ -40,8 +40,6 @@ langs: ["en", "fr"]
 remote_theme: khalefyaddaden/khalefyaddaden.github.io
 #plugins:
 #  - jekyll-feed
-plugins:
-  - jekyll-last-modified-at
 
 markdown: kramdown
 
