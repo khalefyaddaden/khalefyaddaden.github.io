@@ -6,7 +6,7 @@ layout: about
 lang: fr
 ---
 
-Doctorant en mathématiques à l'*Institut de Recherche en Mathématiques Avancées* ([IRMA](http://irma.math.unistra.fr)) à Strasbourg (France) au sein de l'équipe d'*Algèbre, Représentations et Topologie* ([ART](https://irma.math.unistra.fr/teams/art.html)).
+Doctorant en mathématiques à l'*Institut de Recherche en Mathématiques Avancées* ([IRMA](http://irma.math.unistra.fr)) à Strasbourg (France) au sein de l'équipe *Algèbre, Représentations et Topologie* ([ART](https://irma.math.unistra.fr/teams/art.html)).
 
 Je travaille sous la direction de *Benjamin Enriquez* sur le sujet intitulé:
 "*Structures algébriques associées aux relations de double mélange entres valeurs polylogrithmes multiples aux racines de l'unité*". Essentiellement, il s'agit de l'étude et la compréhension
@@ -14,4 +14,4 @@ du corpoduit harmonique de Racinet introduit dans [ce papier](http://www.numdam.
 
 Les domaines dans lesquels je me spécialise sont l'algèbre et la topologie. Plus particulièrement, je m'intéresse aux algèbres de Hopf, schémas de groupe et aux algèbres de Lie.
 
-Dernière mise à jour : 25-05-2022
+Dernière mise à jour : 07-07-2022
