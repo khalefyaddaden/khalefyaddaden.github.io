@@ -6,7 +6,7 @@ layout: about
 lang: fr
 ---
 
-Doctorant en mathématiques à l'*Institut de Recherche en Mathématiques Avancées* ([IRMA](http://irma.math.unistra.fr)) à Strasbourg (France) au sein de l'équipe d'*Algèbre, Topologie, Group Quantiques et Représentations* ([ATGQR](http://irma.math.unistra.fr/rubrique128.html)).
+Doctorant en mathématiques à l'*Institut de Recherche en Mathématiques Avancées* ([IRMA](http://irma.math.unistra.fr)) à Strasbourg (France) au sein de l'équipe d'*Algèbre, Représentations et Topologie* ([ART](https://irma.math.unistra.fr/teams/art.html)).
 
 Je travaille sous la direction de *Benjamin Enriquez* sur le sujet intitulé:
 "*Structures algébriques associées aux relations de double mélange entres valeurs polylogrithmes multiples aux racines de l'unité*". Essentiellement, il s'agit de l'étude et la compréhension

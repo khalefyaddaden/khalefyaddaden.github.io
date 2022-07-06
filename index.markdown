@@ -6,7 +6,7 @@ layout: about
 lang: en
 ---
 
-PhD student in mathematics at *Institut de Recherche en Mathématiques Avancées* ([IRMA](http://irma.math.unistra.fr)) in Strasbourg (France) as part of the team *Algebra, Topology, Quantum Groups and Representations* ([ATGQR](http://irma.math.unistra.fr/rubrique128.html)).
+PhD student in mathematics at *Institut de Recherche en Mathématiques Avancées* ([IRMA](http://irma.math.unistra.fr)) in Strasbourg (France) as part of the team *Algebra, Representations and Topology* ([ART](https://irma.math.unistra.fr/teams/art.html)).
 
 I'm working under the supervision of *Benjamin Enriquez* on the subject entitled:
 "*Algebraic structures associated to the double shuffle relations between multiple polylogarithm values at roots of unity*".
