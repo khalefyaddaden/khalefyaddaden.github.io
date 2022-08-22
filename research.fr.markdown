@@ -12,6 +12,13 @@ Je travaille actuellement sur ma thèse portant sur les structures algébriques 
 
 ## Exposés
 
+### Séminaire mensuelle du département de mathématiques de l'université de Nagoya
+**Date** : 22 août 2022
+
+**Lieu** : Web seminaire
+
+**Titre** : Algèbre de Lie des doubles mélanges et produit croisé
+
 ### Séminaire Quantique de l'Institut de Recherche en Mathématiques Avancées
 **Date** : 11 mai 2022
 

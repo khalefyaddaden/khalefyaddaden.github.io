@@ -12,6 +12,13 @@ I am currently working on my thesis about the Algebraic structures associated to
 
 ## Presentations
 
+### Séminaire mensuelle du département de mathématiques de l'université de Nagoya
+**Date** : Auguste 22<sup>nd</sup>, 2022
+
+**Lieu** : Web seminar
+
+**Titre** : Double shuffle Lie algebra and crossed product
+
 ### Quantum Seminar of the Institut de Recherche en Mathématiques Avancées
 **Date** : May 11<sup>th</sup>, 2022
 
