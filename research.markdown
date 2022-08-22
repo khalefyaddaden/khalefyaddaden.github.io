@@ -12,7 +12,7 @@ I am currently working on my thesis about the Algebraic structures associated to
 
 ## Presentations
 
-### Séminaire mensuelle du département de mathématiques de l'université de Nagoya
+### Monthly seminar of the mathematics department of the university of Nagoya
 **Date** : Auguste 22<sup>nd</sup>, 2022
 
 **Lieu** : Web seminar
