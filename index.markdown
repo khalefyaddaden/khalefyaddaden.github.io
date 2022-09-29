@@ -14,4 +14,4 @@ Essentially, the thesis is about studying and understanding Racinet's harmonic c
 
 My areas of interest are Algebra and Topology. I'm particularly interested in Hopf algebras, group schemes and Lie algebras.
 
-Last update : 22-08-2022
+Last update : 29-09-2022

@@ -12,12 +12,22 @@ Je travaille actuellement sur ma thèse portant sur les structures algébriques 
 
 ## Exposés
 
+## Conférence "Algebra, Topology and the Grothedieck-Teichmüller group"
+**Date** : 30 août 2022
+
+**Location** : Les Diablerets, Suisse
+
+**Title** : Algèbre de Lie stablisateur du coproduit harmonique
+
+
 ### Séminaire mensuel du département de mathématiques de l'université de Nagoya
 **Date** : 22 août 2022
 
 **Lieu** : Web seminaire
 
 **Titre** : Algèbre de Lie des doubles mélanges et produit croisé
+
+**Résumé** :
 
 ### Séminaire Quantique de l'Institut de Recherche en Mathématiques Avancées
 **Date** : 11 mai 2022
