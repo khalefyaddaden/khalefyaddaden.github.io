@@ -14,4 +14,4 @@ du corpoduit harmonique de Racinet introduit dans [ce papier](http://www.numdam.
 
 Les domaines dans lesquels je me spécialise sont l'algèbre et la topologie. Plus particulièrement, je m'intéresse aux algèbres de Hopf, schémas de groupe et aux algèbres de Lie.
 
-Dernière mise à jour : 29-09-2022
+Dernière mise à jour : 30-09-2022
