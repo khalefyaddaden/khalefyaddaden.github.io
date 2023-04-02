@@ -4,11 +4,25 @@ title: Research
 lang: en
 katex: yes
 ---
-I am currently working on my thesis about the Algebraic structures associated to the double shuffle relations between multiple polylogarithm values at roots of unity. My reseach field is at the intersection between number theory, algebraic topology, algebraic geometry and categories. More precisely, my current work is about studying and understanding Racinet's harmonic coproduct which encode the double shuffle relations between multiple polylogarithm values as algebraic operations on a non commutative formal series algebra. This work is inspired by [this paper](https://arxiv.org/abs/1803.10151) from Enriquez and Furusho.
+
+## PhD Thesis
+
+**Title** : Algebraic structures associated to double shuffle relations between multiple polylogrithm values at roots of unity
+
+**Date of defense** : March 14^th^, 2023.
+
+**HAL link** : https://theses.hal.science/tel-04017713 
+
+**Abstract** : Racinet attached to each finite cyclic group $G$ and group embedding $$\iota : G \to \mathbb{C}^{\times}$$ a $$\mathbb{Q}$$-scheme $$\mathsf{DMR}^{\iota}$$ which describes the double shuffle and regularization relations between multiple polylogarithm values at $$N$$\textsuperscript{th} roots of unity, with $$N$$ the order of $$G$$. He also exhibited a $$\mathbb{Q}$$-group scheme $$\mathsf{DMR}_0^G$$, which Enriquez and Furusho identified with the stabilizer of a coproduct arising in Racinet's formalism with respect to the action of the group $$\mathcal{G}$$ of grouplike elements of a noncommutatives series Hopf algebra, equipped with the twisted Magnus product. We reformulate Racinet's construction in terms of crossed product. Racinet coproduct can then be identified with a coproduct $$\widehat{\Delta}^{\mathcal{M}, \mathrm{DR}}_G$$ defined on a module $$\widehat{\mathcal{M}}_G^{\mathrm{DR}}$$ over an algebra $$\widehat{\mathcal{W}}_G^{\mathrm{DR}}$$, which is equipped with its own coproduct $$\widehat{\Delta}^{\mathcal{W}, \mathrm{DR}}_G$$. We show that there are compatible group actions of a semidirect product involving $\mathcal{G}$ on $\widehat{\mathcal{M}}_G^{\mathrm{DR}}$ and $\widehat{\mathcal{W}}_G^{\mathrm{DR}}$. This yields an explicit stabilizer group scheme containing $$\mathsf{DMR}_0^G$$, which we also express in the Racinet formalism.
+Furthermore, for $$G=\{1\}$$, Enriquez and Furusho showed that a subscheme $$\mathsf{DMR}^{\iota}_{\times}$$ of $$\mathsf{DMR}^{\iota}$$ is a torsor of isomorphisms relating de Rham and Betti objects. In the second part of this work, we define the main ingredients for a generalization of this result to any finite cyclic group $$G$$: we exhibit a module $$\widehat{\mathcal{M}}_N^{\mathrm{B}}$$ over an algebra $$\widehat{\mathcal{W}}_N^{\mathrm{B}}$$ (where $$N$$ is the order of $$G$$) and we prove the existence of two compatible coproducts $$\widehat{\Delta}^{\mathcal{W}, \mathrm{B}}_N$$ and $$\widehat{\Delta}^{\mathcal{M}, \mathrm{B}}_N$$ on $$\widehat{\mathcal{W}}_N^{\mathrm{B}}$$ and $$\widehat{\mathcal{M}}_N^{\mathrm{B}}$$ respectively such that $$\mathsf{DMR}^{\iota}_{\times}$$ is contained in the torsor of isomorphisms relating $$\widehat{\Delta}^{\mathcal{W}, \mathrm{B}}_N$$ (resp. $$\widehat{\Delta}^{\mathcal{M}, \mathrm{B}}_N$$) to $$\widehat{\Delta}^{\mathcal{W}, \mathrm{DR}}_G$$ (resp. $$\widehat{\Delta}^{\mathcal{M}, \mathrm{DR}}_G$$).
 
 ## Publications
+
 ### Preprints
-- **2021 :** Crossed product interpretation of the double shuffle Lie algebra attached to an abelian group. ([arXiv 2112.14140](https://arxiv.org/abs/2112.14140))
+A second preprint is work in progress...
+
+### Journal articles
+- **2023 :** Crossed product interpretation of the double shuffle Lie algebra attached to an abelian group. To be published in *Publications of the Research Institute for Mathematical Sciences* and currently available at ([arXiv 2112.14140](https://arxiv.org/abs/2112.14140)).
 
 ## Presentations
 
