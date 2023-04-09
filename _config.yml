@@ -22,15 +22,15 @@ title: Khalef Yaddaden
 email: kyaddaden@math.unistra.fr
 curriculum:
   name: curriculum vitae
-  url: https://khalefyaddaden.github.io/cv_yaddaden_2022.pdf
+  url: https://khalefyaddaden.github.io/cv_yaddaden_2023.pdf
 description:
   en: "Welcome to Khalef Yaddaden's website. Please find here my reaserch and my teaching
   activities in mathematics."
   fr: "Bienvenue sur le site de Khalef Yaddaden. Veuillez trouverer ici mes activités
-  en recherche et enseignements en mathématiques."
+  de recherche et d'enseignement en mathématiques."
 url: "https://khalefyaddaden.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: YaddadenK
-github_username:  khalefyaddaden
+researchgate_username:  Khalef-Yaddaden
 linkedin_username: khalef-yaddaden
 
 # Multilingual setting : french and english 
