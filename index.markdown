@@ -6,7 +6,7 @@ layout: about
 lang: en
 ---
 
-Doctor of mathematics at the University of Strasbourg (France) since March 14<sup>th</sup>, 2023, my thesis is entitled "*Algebraic structures associated to the double shuffle relations between multiple polylogarithm values at roots of unity*", which I worked on under the supervision of *Benjamin Enriquez*. The thesis manuscript is available [here](https://theses.hal.science/tel-04017713).
+Doctor of mathematics at the University of Strasbourg (France) since March 14<sup>th</sup> 2023, my thesis is entitled "*Algebraic structures associated to the double shuffle relations between multiple polylogarithm values at roots of unity*", which I worked on under the supervision of *Benjamin Enriquez*. The thesis manuscript is available [here](https://theses.hal.science/tel-04017713).
 
 **Keywords**: Multiple polylogarithm values; Double Shuffle; Harmonic coproducts; Hopf algebra; Torsor; Crossed product algebra; Filtered algebra; De Rham; Betti.
 
