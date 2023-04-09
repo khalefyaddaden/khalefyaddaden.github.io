@@ -17,10 +17,10 @@ Par ailleurs, pour $$G=\{1\}$$, Enriquez et Furusho montrent qu'un sous-schéma 
 ## Publications
 
 ### Préprint
-Un second preprint est en cours de préparation...
+- **2023 :** Un second preprint est en cours de préparation...
 
 ### Articles de journal
-- **2023 :** Crossed product interpretation of the double shuffle Lie algebra attached to an abelian group. Prochainement publié dans *Publications of the Research Institute for Mathematical Sciences* et actuellement disponible sur ([arXiv 2112.14140](https://arxiv.org/abs/2112.14140)).
+- **2023 :** Crossed product interpretation of the double shuffle Lie algebra attached to an abelian group. Prochainement publié dans *Publications of the Research Institute for Mathematical Sciences* et disponible depuis décembre 2021 sur ([arXiv 2112.14140](https://arxiv.org/abs/2112.14140)).
 
 ## Exposés
 
