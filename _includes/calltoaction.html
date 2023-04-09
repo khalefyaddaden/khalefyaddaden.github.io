@@ -16,5 +16,11 @@
     {{ cta.twitter[plang][0] }}
     <a href="https://twitter.com/{{ site.twitter_username }}">@{{ site.twitter_username }}</a>
     {{ cta.twitter[plang][1] }}
+  {% endif %}
+  
+  {% if site.researchgate_username %}
+    {{ cta.researchgate[plang][0] }}
+    <a href="https://researchgate.net/profile/{{ site.researchgate_username }}">@{{ site.researchgate_username }}</a>
+    {{ cta.researchgate[plang][1] }}
   {% endif %}.
 </div>

@@ -16,6 +16,12 @@
   </li>
   {% endif %}
 
+  {% if site.researchgate_username %}
+  <li>
+    {% include _icons/researchgate.html username=site.researchgate_username %}
+  </li>
+  {% endif %}
+
   {% if site.linkedin_username %}
   <li>
     {% include _icons/linkedin.html username=site.linkedin_username %}
