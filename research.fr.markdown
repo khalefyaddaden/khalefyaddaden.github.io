@@ -16,7 +16,7 @@ Par ailleurs, pour $$G=\{1\}$$, Enriquez et Furusho montrent qu'un sous-schéma 
 
 ## Publications
 
-### Préprint
+### Prépublication
 - **2023 :** The cyclotomic double shuffle torsor in terms of Betti and de Rham coproducts ([arXiv 2304.04061](https://arxiv.org/abs/2304.04061)).
 
 ### Articles de journal
