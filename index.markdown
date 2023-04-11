@@ -14,4 +14,4 @@ Currently, I am a member of the team *Algebra, Representations and Topology* ([A
 
 My areas of interest are Algebra, Geometry and Topology. I'm particularly interested in Quantum algebra, Hopf algebras, group schemes and Lie algebras.
 
-Last update : 10-04-2023
+Last update : 11-04-2023

@@ -14,4 +14,4 @@ Actuellement, je suis membre de l'équipe *Algèbre, Représentations et Topolog
 
 Les domaines qui m'intéressent sont l'algèbre, la géométrie et la topologie. En particulier, l'algèbre quantique, les algèbres de Hopf, les schémas en groupe et les algèbres de Lie.
 
-Dernière mise à jour : 10-04-2022
+Dernière mise à jour : 11-04-2022
