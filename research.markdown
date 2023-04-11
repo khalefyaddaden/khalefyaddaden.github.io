@@ -17,7 +17,7 @@ Furthermore, for $$G=\{1\}$$, Enriquez and Furusho showed that a subscheme $$\ma
 ## Publications
 
 ### Preprints
-- **2023 :** A second preprint is work in progress...
+- **2023 :** The cyclotomic double shuffle torsor in terms of Betti and de Rham coproducts ([arXiv 2304.04061](https://arxiv.org/abs/2304.04061)).
 
 ### Journal articles
 - **2023 :** Crossed product interpretation of the double shuffle Lie algebra attached to an abelian group. To be published in *Publications of the Research Institute for Mathematical Sciences* and available since December 2021 at ([arXiv 2112.14140](https://arxiv.org/abs/2112.14140)).
