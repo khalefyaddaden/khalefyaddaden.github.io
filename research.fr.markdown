@@ -17,10 +17,10 @@ Par ailleurs, pour $$G=\{1\}$$, Enriquez et Furusho montrent qu'un sous-schéma 
 ## Publications
 
 ### Prépublication
-- **2023 :** The cyclotomic double shuffle torsor in terms of Betti and de Rham coproducts ([arXiv 2304.04061](https://arxiv.org/abs/2304.04061)).
+- K. Yaddaden, *The cyclotomic double shuffle torsor in terms of Betti and de Rham coproducts* ([arXiv 2304.04061](https://arxiv.org/abs/2304.04061)).
 
 ### Articles de journal
-- **2023 :** Crossed product interpretation of the double shuffle Lie algebra attached to an abelian group. Prochainement publié dans *Publications of the Research Institute for Mathematical Sciences* et disponible depuis décembre 2021 sur ([arXiv 2112.14140](https://arxiv.org/abs/2112.14140)).
+- K. Yaddaden, *Crossed product interpretation of the double shuffle Lie algebra attached to an abelian group*. A paraître dans *Publications of the Research Institute for Mathematical Sciences* et disponible sur ([arXiv 2112.14140](https://arxiv.org/abs/2112.14140)).
 
 ## Exposés
 
