@@ -24,6 +24,15 @@ Furthermore, for $$G=\{1\}$$, Enriquez and Furusho showed that a subscheme $$\ma
 
 ## Presentations
 
+### Mid-term workshop of the ANR HighAGT
+**Date** : June 02<sup>th</sup>, 2023
+
+**Location** : Strasbourg, France
+
+**Title** : Double shuffle torsor of cyclotomic multizeta values and stabilizer de Rham and Betti coproducts
+
+**Abstract** : 
+
 ### The "Algebra, Topology and the Grothedieck-Teichmüller group" conference
 **Date** : August 30<sup>th</sup>, 2022
 

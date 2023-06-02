@@ -24,6 +24,15 @@ Par ailleurs, pour $$G=\{1\}$$, Enriquez et Furusho montrent qu'un sous-schéma 
 
 ## Exposés
 
+### Mid-term workshop of the ANR HighAGT
+**Date** : 02 juin 2023
+
+**Lieu** : Strasbourg, France
+
+**Titre** : Torseur de double mélange de multizêtas cyclotomiques et stabilisateurs de coproduits de Rham et Betti
+
+**Résumé** : Racinet décrit les relations de double mélange et régularisation entre valeurs polylogarithmes multiples aux racines de l'unité via un $$\mathbb{Q}$$-schéma $$\mathsf{DMR}^{\iota}$$ où $$\iota : G \hookrightarrow \mathbb{C}^{\times}$$ est un plongement de groupe d'un groupe cyclique fini $$G$$ dans $$\mathbb{C}^{\times}$$. Ensuite, Enriquez et Furusho montrent, dans le cas $$G=\{1\}$$, qu'un sous-schéma $$\mathsf{DMR}^{\iota}_{\times}$$ est un torseur d'isomorphismes entre objets Betti et de Rham. Dans cet exposé, on établit une généralisation de ce résultat en version cyclotomique. On commencera par expliciter la structure de torseur de $$\mathsf{DMR}^{\iota}_{\times}$$ puis on introduira dans ce contexte les objets de Rham et Betti adéquats : les premiers sont issus d'une algèbre produit croisé et permettent une reformulation du coproduit harmonique de Racinet plus proche du formalisme introduit par Enriquez et Furusho; quant aux les seconds, ils sont issus d'une algèbre de groupe du groupe fondamental orbifold $$\mathbb{C}^{\times} \setminus \mu_{|G|} / \mu_{|G|}$$, où $$\mu_{|G|}$$ désigne le groupe des racines de l'unité. Enfin, on démontrera, au sein du formalisme Betti, l'existence de deux coproduits de coalgèbre et d'algèbre de Hopf tels que $$\mathsf{DMR}^{\iota}_{\times}$$ est un torseur des isomorphismes reliant ces coproduits Betti aux coproduits de Rham.
+
 ### Conférence "Algebra, Topology and the Grothedieck-Teichmüller group"
 **Date** : 30 août 2022
 
