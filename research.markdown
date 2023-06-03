@@ -31,7 +31,7 @@ Furthermore, for $$G=\{1\}$$, Enriquez and Furusho showed that a subscheme $$\ma
 
 **Title** : Double shuffle torsor of cyclotomic multizeta values and stabilizer de Rham and Betti coproducts
 
-**Abstract** : 
+**Abstract** : Racinet describes the double shuffle and regularization relations between multiple polylogarithm values at roots of unity via a $$\mathbb{Q}$$-scheme $$\mathsf{DMR}^{\iota}$$ where $$\iota : G \hookrightarrow \mathbb{C}^{\times}$$ is a group embedding from a finite cyclic group $$G$$ to $$\mathbb{C}^{\times}$$. Then, Enriquez and Furusho show, when $$G=\{1\}$$, that a  subscheme $$\mathsf{DMR}^{\iota}_{\times}$$ is a torsor of isomorphisms between Betti and de Rham objects. In this talk, we establish a cyclotomi generalization of this result. First, we explicit the torsor structure of $$\mathsf{DMR}^{\iota}_{\times}$$ then we introduce in this context the adequate de Rham and Betti objects : the former arise from a crossed product algebra and enables a reformulation of Racinet's harmonic coproduct closer to the formalism introduced by Enriquez and Furusho; the latter, on the other hand, arise from a group algebra of the orbifold fundamental group $$\mathbb{C}^{\times} \setminus \mu_{|G|} / \mu_{|G|}$$, where $$\mu_{|G|}$$ is the group of roots of unity. Finalyy, we show the existence of a coalgebra and Hopf algebra coprduct such that $$\mathsf{DMR}^{\iota}_{\times}$$ is a torsor of isomorphisms relying these Betti coproducts to their de Rham counterparts.
 
 ### The "Algebra, Topology and the Grothedieck-Teichmüller group" conference
 **Date** : August 30<sup>th</sup>, 2022
