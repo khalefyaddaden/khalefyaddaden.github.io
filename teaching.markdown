@@ -4,7 +4,7 @@ title: Teaching
 lang: en
 ---
 
-Since october 2022, I am a temporary teaching and research assistant at the *UFR de Mathématiques et Informatique* of the University of Strasbourg (France). My teachings for the universitary year 2022/2023 are as follows:
+Between October 2022 and June 2023, I worked as a temporary teaching and research assistant at the *UFR de Mathématiques et Informatique* of the University of Strasbourg (France). Repartition of my teachings during the two semesters of the universitary year is as follows:
 - **Automn** (35h) :
     - [Algebra: Matrices and arithmetic](https://mathinfo.unistra.fr/en/courses/diplome-duniversite/du-cursus-master-ingenierie-cmi-informatique-image-realite-virtuelle-interactions-et-jeux/rof/FH197/FRUAI0673021VCOEN897/) (1st Year B. Sc. students in mathematics and computer science).
 
