@@ -16,7 +16,7 @@ Entre octobre 2019 et mai 2022, j'ai effectué des missions d'enseignement à l'
 - **Automne** (24h) : [Mathématiques élémentaires](https://mathinfo.unistra.fr/formations/licence/mathematiques/rof/ME14/FRUAI0673021VCOEN896/) (Mathématiques et informatique L1).
 - **Printemps** (34h) : [Algèbre : Anneaux et corps](https://mathinfo.unistra.fr/formations/licence/mathematiques/rof/ME14/FRUAI0673021VCOEN28910/) (Mathématiques Pures L3).
 
-Depuis le mois de **Février 2023**, j'encadre une étudiante pour l'Unité d'Enseignement *Etudes de textes* de Master sur le sujet intitué "*Anneaux de Dedekind*".
+De **Février** à **Mai 2023**, j'ai encadré une étudiante pour l'Unité d'Enseignement *Etudes de textes* du Master 1 Mathématiques Fondamentales sur le sujet intitué "*Anneaux de Dedekind*".
 
 Au cours des mois de **Mars** et **Avril 2022**, j'ai encadré trois étudiants pour leur mémoire de licence sur le sujet intitué "*Ensembles algébriques affines*".
 

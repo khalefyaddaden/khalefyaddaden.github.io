@@ -17,10 +17,10 @@ Between October 2019 and May 2022, I carried out teaching missions at *UFR de Ma
 - **Automn** (24h) : [Elementary mathematics](https://mathinfo.unistra.fr/formations/licence/mathematiques/rof/ME14/FRUAI0673021VCOEN896/) (1st Year B. Sc. students in mathematics and computer science).
 - **Spring** (34h) : [Algebra : Rings and fields](https://mathinfo.unistra.fr/formations/licence/mathematiques/rof/ME14/FRUAI0673021VCOEN28910/) (3rd Year BSc students in mathematics).
 
-Since **February 2023**, I am supervising a student for the Teaching Unit *Etudes de textes* of 1st Year M. Sc. Master on the subject entitled "*Dedekind rings*".
+From **February 2023** to **May 2023**, I have supervised a student for the Teaching Unit *Etudes de textes* of 1st Year Fundamental Mathematics Master on the subject entitled "*Dedekind rings*".
 
-During **March** and **April 2022**, I have supervised three students for their Bachelor thesis on the subject entitled "*Affine Algebraic sets*".
+From **March** to **April 2022**, I have supervised three students for their Bachelor thesis on the subject entitled "*Affine Algebraic sets*".
 
-During **March** and **April 2021**, I have supervised two students for their Bachelor thesis on the subject entitled "*Finite fields*".
+From **March** to **April 2021**, I have supervised two students for their Bachelor thesis on the subject entitled "*Finite fields*".
 
 Before that, during the academic year **2018/2019**, I worked as a *Teaching Assistant* in *lycée Marc Bloch* in Bischeim (France).
