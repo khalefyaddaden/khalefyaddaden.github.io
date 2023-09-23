@@ -6,12 +6,12 @@ layout: about
 lang: fr
 ---
 
-Docteur en mathématiques à l'université de Strasbourg (France) depuis le 14 Mars 2023. L'intitulé de ma thèse est : "*Structures algébriques associées aux relations de double mélange entres valeurs polylogrithmes multiples aux racines de l'unité*". Elle a été encadrée par *Benjamin Enriquez*. Le manuscrit de thèse est disponible [ici](https://theses.hal.science/tel-04017713).
+Je suis chercheur invité au sein de l'équipe *Algèbre, Représentations et Topologie* ([ART](https://irma.math.unistra.fr/teams/art.html)) au sein de l'*Institut de Recherche Mathématique Avancée* ([IRMA](http://irma.math.unistra.fr)), Strasbourg (France).
 
-**Mots clés** : Polylogarithmes Multiple; Double mélange; Coproduits harmoniques; Algèbre de Hopf; Torseur; Algèbre produit croisé; Algèbre filtée; De Rham; Betti.
+J'ai soutenu ma thèse de doctorat le 14 mars 2023 sous la direction de *Benjamin Enriquez*. Ma thèse s'intitule "*Structures algébriques associées aux relations de double mélange entres valeurs polylogrithmes multiples aux racines de l'unité*" dont le manuscrit est disponible [ici](https://theses.hal.science/tel-04017713).
 
-Actuellement, je suis membre de l'équipe *Algèbre, Représentations et Topologie* ([ART](https://irma.math.unistra.fr/teams/art.html)) au sein de l'*Institut de Recherche en Mathématiques Avancées* ([IRMA](http://irma.math.unistra.fr)), Strasbourg en tant qu'attaché temporaire à l'enseignement et la recherche (ATER).
+**Mots clés** : Polylogarithmes multiples; Double mélange; Coproduit harmonique; Algèbre de Hopf; Torseur; Algèbre produit croisé; Algèbre filtée.
 
-Les domaines qui m'intéressent sont l'algèbre, la géométrie et la topologie. En particulier, l'algèbre quantique, les algèbres de Hopf, les schémas en groupe et les algèbres de Lie.
+Je m'intéresse particulièrement aux valeurs zêta multiples et à leur généralisation cyclotomique (les polylogarithme multiples aux racines de l'unité) ainsi qu'au sujets tournant autour de cette thématique.
 
-Dernière mise à jour : 03-06-2023
+Dernière mise à jour : 23-09-2023
