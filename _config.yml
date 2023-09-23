@@ -24,10 +24,10 @@ curriculum:
   name: curriculum vitae
   url: https://khalefyaddaden.github.io/cv_yaddaden_2023.pdf
 description:
-  en: "Welcome to Khalef Yaddaden's website. Please find here my reaserch and my teaching
+  en: "Welcome ! This website presents a summary of my reaserch work and my teachings
   activities in mathematics."
-  fr: "Bienvenue sur le site de Khalef Yaddaden. Veuillez trouverer ici mes activités
-  de recherche et d'enseignement en mathématiques."
+  fr: "Bienvenue ! Ce site présente un résumé de mes travaux de recherche et d'enseignement
+  en mathématiques."
 url: "https://khalefyaddaden.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: khalefyaddaden
 twitter_username: YaddadenK
