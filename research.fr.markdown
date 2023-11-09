@@ -25,7 +25,7 @@ Par ailleurs, pour $$G=\{1\}$$, Enriquez et Furusho montrent qu'un sous-schéma 
 
 ## Exposés
 
-## Séminaire mensuel du département de mathématiques de l'université de Nagoya
+### Séminaire mensuel du département de mathématiques de l'université de Nagoya
 **Date** : 09 novembre 2023
 
 **Lieu** : Nagoya, Japon
