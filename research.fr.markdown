@@ -17,12 +17,20 @@ Par ailleurs, pour $$G=\{1\}$$, Enriquez et Furusho montrent qu'un sous-schéma 
 ## Publications
 
 ### Prépublication
-- K. Yaddaden, *The cyclotomic double shuffle torsor in terms of Betti and de Rham coproducts* ([arXiv 2304.04061](https://arxiv.org/abs/2304.04061)).
+- Travail en cours...
 
 ### Articles de journal
+- K. Yaddaden, *The cyclotomic double shuffle torsor in terms of Betti and de Rham coproducts*. A paraître dans *Journal of Pure and Applied Algebra* et disponible sur ([arXiv 2304.04061](https://arxiv.org/abs/2304.04061)).
 - K. Yaddaden, *Crossed product interpretation of the double shuffle Lie algebra attached to an abelian group*. A paraître dans *Publications of the Research Institute for Mathematical Sciences* et disponible sur ([arXiv 2112.14140](https://arxiv.org/abs/2112.14140)).
 
 ## Exposés
+
+## Séminaire mensuel du département de mathématiques de l'université de Nagoya
+**Date** : 09 novembre 2023
+
+**Lieu** : Nagoya, Japon
+
+**Titre** : Torseur de double mélange de MZV cyclotomiques et stabilisateurs de coproduits de Rham et Betti
 
 ### Mid-term workshop of the ANR HighAGT
 **Date** : 02 juin 2023
