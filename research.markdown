@@ -17,7 +17,7 @@ Furthermore, for $$G=\{1\}$$, Enriquez and Furusho showed that a subscheme $$\ma
 ## Publications
 
 ### Preprints
-- Work in progress...
+- A work is in progress...
 
 ### Journal articles
 - K. Yaddaden, *Crossed product interpretation of the double shuffle Lie algebra attached to an abelian group*. To appear in *Publications of the Research Institute for Mathematical Sciences* and available at ([arXiv 2112.14140](https://arxiv.org/abs/2112.14140)).
