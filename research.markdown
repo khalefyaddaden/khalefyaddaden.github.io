@@ -20,8 +20,8 @@ Furthermore, for $$G=\{1\}$$, Enriquez and Furusho showed that a subscheme $$\ma
 - A work is in progress...
 
 ### Journal articles
-- K. Yaddaden, *Crossed product interpretation of the double shuffle Lie algebra attached to an abelian group*. To appear in *Publications of the Research Institute for Mathematical Sciences* and available at ([arXiv 2112.14140](https://arxiv.org/abs/2112.14140)).
 - K. Yaddaden, *The cyclotomic double shuffle torsor in terms of Betti and de Rham coproducts*. To appear in *Journal of Pure and applied algebra* and available at ([arXiv 2304.04061](https://arxiv.org/abs/2304.04061)).
+- K. Yaddaden, *Crossed product interpretation of the double shuffle Lie algebra attached to an abelian group*. To appear in *Publications of the Research Institute for Mathematical Sciences* and available at ([arXiv 2112.14140](https://arxiv.org/abs/2112.14140)).
 
 ## Presentations
 
