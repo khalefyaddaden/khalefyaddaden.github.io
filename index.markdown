@@ -15,4 +15,4 @@ a thèse s'intitule "*Structures algébriques associées aux relations de double
 
 My area of interest is multiple zeta values and their cyclotomic generalisation (multiple polylogarithm values at roots of unity) alonside related topics.
 
-Last update : 23-09-2023
+Last update : 09-11-2023

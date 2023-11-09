@@ -14,4 +14,4 @@ J'ai soutenu ma thèse de doctorat le 14 mars 2023 sous la direction de *Benjami
 
 Je m'intéresse particulièrement aux valeurs zêta multiples et à leur généralisation cyclotomique (les polylogarithme multiples aux racines de l'unité) ainsi qu'au sujets tournant autour de cette thématique.
 
-Dernière mise à jour : 23-09-2023
+Dernière mise à jour : 09-11-2023
