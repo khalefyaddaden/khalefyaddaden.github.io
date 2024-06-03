@@ -71,6 +71,8 @@ Talk given: Double shuffle Lie algebra and crossed product.
 
 - <img src="/assets/img/flags/fr.png" width="20" height="20"> [Annual meeting of the French national research network of algebraic topology and its applications](https://indico.math.cnrs.fr/event/5722/). Institut de Recherche Mathématique Avancées, Strasbourg, France. October 26th, 2021 - October 29th, 2021.
 
+- <img src="/assets/img/flags/fr.png" width="20" height="20"> [Mathematics without Borders: The Centennial of the International Mathematical Union](https://imucentennial.math.unistra.fr/). Palais Universitaire, Strasbourg, France. September 27th, 2021 - September 28th, 2021.
+
 - <img src="/assets/img/flags/fr.png" width="20" height="20"> [Second Year PhD Students Day (EDDA)](https://irma.math.unistra.fr/conferences/edda-:-exposes-des-doctorants-de-deuxieme-annee-1827.html). Institut de Recherche Mathématique Avancées, Strasbourg, France. May 25th, 2021.
 
 Talk given: Algebraic structures of relations between multiple polylogarithm values at roots of unity.
