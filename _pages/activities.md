@@ -11,6 +11,10 @@ nav_order: 3
 
 #### 2024
 
+- <img src="/assets/img/flags/jap.png" width="20" height="20"> [23rd Sendai-Hiroshima Number Theory Conference](https://math0.pm.tokushima-u.ac.jp/~hiroki/hiroshima24.html). Tohoku University, Sendai, Japan. July 09th, 2024 - July 12th, 2024.
+
+Talk given: Double shuffle torsor of cyclotomic MZVs and stabilizers of de Rham and Betti coproducts.
+
 - <img src="/assets/img/flags/jap.png" width="20" height="20"> [Aichi Number Theory Seminar](https://ants.gmath.meijo-u.ac.jp/home). Meijo University, Nagoya, Japan. May 25th, 2024.
 
 - <img src="/assets/img/flags/jap.png" width="20" height="20"> [65th Kansai Multiple Zeta Study Group](https://sites.google.com/site/kmzsince2011/) Meeting. Tohoku University, Sendai, Japan. May 18th, 2024.
