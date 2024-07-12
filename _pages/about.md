@@ -8,10 +8,11 @@ profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>at "Periods in Physics, Number Theory and Algebraic Geometry" Workshop</p>
-    <p>Hausdorff Research Institute for Mathematics, Bonn, Germany.</p>
-    <p>April 2024</p>
+[//]: # (Ceci est un commentaire)
+[//]: # (  more_info: >)
+[//]: # (    <p>at "Periods in Physics, Number Theory and Algebraic Geometry" Workshop</p>)
+[//]: # (    <p>Hausdorff Research Institute for Mathematics, Bonn, Germany.</p>)
+[//]: # (    <p>April 2024</p>)
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
