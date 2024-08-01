@@ -113,7 +113,7 @@
     {
       "language": "French",
       "fluency": "Fluent",
-      "icon": "<img src="/assets/img/flags/fr.png" width="20" height="20">"
+      "icon": "img src="/assets/img/flags/fr.png" width="20" height="20""
     },
     {
       "language": "English",
