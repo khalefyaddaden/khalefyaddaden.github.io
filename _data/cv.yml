@@ -1,32 +1,24 @@
-- title: General Information
-  type: map
-  contents:
-    - name: Full Name
-      value: Khalef Yaddaden
-    - name: Languages
-      value: Kabyle (Native speaker), French (Fluent), English (Fluent), Arabic (Fluent), Japanese (Elementary).
-
-- title: Experience
+- title: Professional Experience
   type: time_table
   contents:
     - title: JSPS Postdoctoral research fellow
-      institution: Graduate School of Mathematics, Nagoya University, Nagoya, Japan
-      year: 01.11.2023 - TODAY
+      institution: <a href="https://www.math.nagoya-u.ac.jp/en/index.html" target="_blank">Graduate School of Mathematics</a>, Nagoya University, Nagoya, Japan
+      year: 01.11.2023 - Today
       description:
         - Geometry of double shuffle relations of multiple L values
 
     - title: Visiting Professor
-      institution: Institut de Recherche Mathématique Avancée, Strasbourg, France
+      institution: <a href="https://irma.math.unistra.fr/" target="_blank">Institut de Recherche Mathématique Avancée</a>, Strasbourg, France
       year: 01.09.2023 - 31.10.2023
       description:
         - Colaborative research on the relations between braid groups and the Betti side of the double shuffle theory
 
     - title: Attaché Temporaire d'Enseignement et Recherche (Teaching Assistant)
-      institution: UFR de Mathématiques et Informatique, University of Strasbourg, Strasbourg, France
+      institution: <a href="https://mathinfo.unistra.fr/" target="_blank">UFR de Mathématiques et Informatique</a>, University of Strasbourg, Strasbourg, France
       year: 01.10.2022 - 31.08.2023
 
     - title: Teaching assistant
-      institution: Marc Bloch High School, Bischheim, France
+      institution: <a href="https://lyc-bloch-bischheim.site.ac-strasbourg.fr/wordpress/" target="_blank">Marc Bloch High School</a>, Bischheim, France
       year: 01.10.2018 - 30.09.2019
 
 - title: Education
@@ -61,6 +53,20 @@
   type: time_table
   contents:
     - year: Since 2022
-      items:
-        - Young researcher in the ``Arithmetic and Homotopic Galois Theory'' International Research Network
-        - Temporary member of ``Higher Algebra, Geometry, and Topology'' Agence Nationale de Recherche
+      description:
+        - Young researcher in the ``<a href="https://ahgt.math.cnrs.fr/" target="_blank">Arithmetic and Homotopic Galois Theory</a>'' International Research Network
+        - Temporary member of ``<a href="https://anr-highagt.pages.math.cnrs.fr/" target="_blank">Higher Algebra, Geometry, and Topology</a>'' Agence Nationale de Recherche
+
+- title: Languages
+  type: map
+  contents:
+    - name: Kabyle
+      value: Native speaker
+    - name: French
+      value: Fluent
+    - name: English
+      value: Fluent
+    - name: Arabic
+      value: Fluent
+    - name: Japanese
+      value: Elementary
