@@ -13,7 +13,7 @@
       institution: Graduate School of Mathematics, Nagoya University, Nagoya, Japan
       year: 01.11.2023 - TODAY
       description:
-        - title: Geometry of double shuffle relations of multiple L values
+        - Geometry of double shuffle relations of multiple L values
 
     - title: Visiting Professor
       institution: Institut de Recherche Mathématique Avancée, Strasbourg, France
@@ -36,27 +36,26 @@
       institution: University of Strasbourg, Strasbourg, France
       year: 01.10.2019 - 14.03.2023
       description:
-        - title: Algebraic structures associated to the double shuffle relations between multiple polylogarithm values at roots of unity
-          contents:
-            - Supervised by Benjamin Enriquez
+        - Algebraic structures associated to the double shuffle relations between multiple polylogarithm values at roots of unity
+        - Supervised by Benjamin Enriquez
 
     - title: MSc
       institution: University of Strasbourg, Strasbourg, France
       year: 01.09.2017 - 30.09.2018
       description:
-        - title: Fundamental Mathematics Algebraic Geometry
+        - Fundamental Mathematics Algebraic Geometry
 
     - title: MSc
       institution: University of Sciences and Technology Houari Boumediene, Algiers, Algeria
       year: 01.09.2015 - 31.08.2017
       description:
-        - title: Fundamental Mathematics Dynamical Systems and Differential Geometry
+        - Fundamental Mathematics Dynamical Systems and Differential Geometry
 
     - title: BSc
       institution: University of Sciences and Technology Houari Boumediene, Algiers, Algeria
       year: 01.09.2012 - 31.08.2015
       description:
-        - title: Algebra and Cryptography
+        - Algebra and Cryptography
 
 - title: Memberships
   type: time_table
