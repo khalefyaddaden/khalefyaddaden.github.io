@@ -1,5 +1,5 @@
 <div class="list-groups">
-  {% assign memberships = data[0] | sort: 'date' | reverse %}
+  {% assign memberships =  site.data.resume.memberships | sort: 'date' | reverse %}
   {% for content in memberships %}
     <div class="list-group col-md-6">
       <table class="table-cv list-group-table">
