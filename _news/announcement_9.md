@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2025-02-17 10:00:00 (JST)
+date: 2025-02-10 10:00:00 (JST)
 inline: true
 related_posts: false
 ---
 
-[Modular Forms and Multiple Zeta Values](https://www.apu.ac.jp/~rintaro/MK60/indexE.html) at Kindai University.
+[Lectures on multiple zeta values and beyond](https://sites.google.com/view/the-17th-msj-siw1?usp=sharing) at Kyushu University.
