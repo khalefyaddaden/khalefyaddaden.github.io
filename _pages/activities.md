@@ -11,6 +11,11 @@ nav_order: 3
 
 #### 2024
 
+- <img src="/assets/img/flags/germ.png" width="20" height="20"> [Beyond Multiple Zeta Values](https://sites.google.com/view/bmzv2024/home) Workshop. Geomatikum,
+Universität Hamburg, Hamburg, Germany. August 27th, 2024 - August 29th, 2024.<br>
+Talk given: Double shuffle torsor of cyclotomic MZVs and stabilizers of de Rham and Betti coproducts.<br>
+Discussion: What is the twisted Magnus product of Multizeta maps ?
+
 - <img src="/assets/img/flags/jap.png" width="20" height="20"> [23rd Sendai-Hiroshima Number Theory Conference](https://math0.pm.tokushima-u.ac.jp/~hiroki/hiroshima24.html). Tohoku University, Sendai, Japan. July 09th, 2024 - July 12th, 2024.<br>
 Talk given: Double shuffle torsor of cyclotomic MZVs and stabilizers of de Rham and Betti coproducts.
 
