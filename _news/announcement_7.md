@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2024-08-27 10:00:00 (JST)
+date: 2024-09-17 14:00:00 (GMT)
 inline: true
 related_posts: false
 ---
