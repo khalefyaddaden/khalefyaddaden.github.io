@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Speaker for the Semaine des Sciences at (Eyyub Sultan Private School)[https://gs-eyyubsultan.fr/], Strasbourg (France).
+Speaker for "La Semaine des Sciences" at [Eyyub Sultan Private School](https://gs-eyyubsultan.fr), Strasbourg (France).
