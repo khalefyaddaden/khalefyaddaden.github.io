@@ -11,6 +11,9 @@ nav_order: 3
 
 #### 2024
 
+- <img src="/assets/img/flags/fr.png" width="20" height="20"> [Algebra and Topology](https://irma.math.unistra.fr/seminaires/seminaire-algebre-et-topologie-2024.html) Seminar. Institut de Recherche Mathématique Avancées, Strasbourg, France. September 17th, 2024.<br>
+Talk given: The scheme of double shuffle and distribution relations of multiple polylogarithm values at roots of unity and a conjecture of Zhao.
+
 - <img src="/assets/img/flags/germ.png" width="20" height="20"> [Beyond Multiple Zeta Values](https://sites.google.com/view/bmzv2024/home) Workshop. Geomatikum,
 Universität Hamburg, Hamburg, Germany. August 27th, 2024 - August 29th, 2024.<br>
 Talk given: Double shuffle torsor of cyclotomic MZVs and stabilizers of de Rham and Betti coproducts.<br>
