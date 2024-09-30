@@ -86,7 +86,7 @@ Talk given: Topologic interpretation of double shuffle relations between special
 
 #### 2024
 
-- <img src="/assets/img/flags/fr.png" width="20" height="20"> [Eyyub Sultan Private School](https://gs-eyyubsultan.fr), Strasbourg, France. September 27th, 2024.<br>
+- <img src="/assets/img/flags/fr.png" width="20" height="20"> [Eyyub Sultan Private School](https://gs-eyyubsultan.fr), Strasbourg, France. September 27th, 2024 (for "La semaine des Sciences" event).<br>
 Talk given: Ethics of a "knowledge seeker".
 
 - <img src="/assets/img/flags/jap.png" width="20" height="20"> [Aichi Prefectual Kasugai Senior High School](https://kasugai-hs.jp), Kasugai, Japan. May 21st, 2024 (under the [JSPS Science Dialog Program](https://www.jsps.go.jp/english/e-sdialogue/index.html)).<br>
