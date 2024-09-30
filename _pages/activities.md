@@ -86,10 +86,13 @@ Talk given: Topologic interpretation of double shuffle relations between special
 
 #### 2024
 
-- <img src="/assets/img/flags/jap.png" width="20" height="20"> [Aichi Prefectual Kasugai Senior High School](https://kasugai-hs.jp/), Kasugai, Japan. May 21st, 2024 (under the [JSPS Science Dialog Program](https://www.jsps.go.jp/english/e-sdialogue/index.html)).<br>
+- <img src="/assets/img/flags/fr.png" width="20" height="20"> [Eyyub Sultan Private School](https://gs-eyyubsultan.fr), Strasbourg, France. September 27th, 2024.<br>
+Talk given: Ethics of a "knowledge seeker".
+
+- <img src="/assets/img/flags/jap.png" width="20" height="20"> [Aichi Prefectual Kasugai Senior High School](https://kasugai-hs.jp), Kasugai, Japan. May 21st, 2024 (under the [JSPS Science Dialog Program](https://www.jsps.go.jp/english/e-sdialogue/index.html)).<br>
 Talk given: From Algeria's heights to Algebra's depths.
 
 #### 2023
 
-- <img src="/assets/img/flags/fr.png" width="20" height="20"> [Eyyub Sultan Private School](https://gs-eyyubsultan.fr/visite-dun-chercheur-en-mathematiques-%F0%9F%91%A8%F0%9F%8F%BB%F0%9F%8F%AB%F0%9F%91%A8%F0%9F%8F%BB%F0%9F%92%BB%F0%9F%93%8A%F0%9F%93%90%E2%9E%95/), Strasbourg, France. October 12th, 2023.<br>
+- <img src="/assets/img/flags/fr.png" width="20" height="20"> [Eyyub Sultan Private School](https://gs-eyyubsultan.fr/visite-dun-chercheur-en-mathematiques-%F0%9F%91%A8%F0%9F%8F%BB%F0%9F%8F%AB%F0%9F%91%A8%F0%9F%8F%BB%F0%9F%92%BB%F0%9F%93%8A%F0%9F%93%90%E2%9E%95), Strasbourg, France. October 12th, 2023.<br>
 Talk given: Journey of a mathematician.
