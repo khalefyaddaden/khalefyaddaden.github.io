@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-[Kansai Multiple Zeta Research Groug](https://sites.google.com/site/kmzsince2011) at Tohoku University.
+[Kansai Multiple Zeta Research Group](https://sites.google.com/site/kmzsince2011) at Tohoku University.
