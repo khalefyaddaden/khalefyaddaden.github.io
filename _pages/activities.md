@@ -11,7 +11,7 @@ nav_order: 3
 
 #### 2024
 
-- <img src="/assets/img/flags/jap.png" width="20" height="20"> [2nd Kindai Workshop: Multiple Zeta Values and Modular Forms](https://www.math.kindai.ac.jp/laboratory/tasaka/2ndKindaiWS). Kindai University, Osaka, Japan. November 08th, 2024 - November 11th, 2024.
+- <img src="/assets/img/flags/jap.png" width="20" height="20"> [2nd Kindai Workshop: Multiple Zeta Values and Modular Forms](https://www.math.kindai.ac.jp/laboratory/tasaka/2ndKindaiWS). Kindai University, Osaka, Japan. November 08th, 2024 - November 10th, 2024.
 
 - <img src="/assets/img/flags/fr.png" width="20" height="20"> [Algebra and Topology](https://irma.math.unistra.fr/seminaires/seminaire-algebre-et-topologie-2024.html) Seminar. Institut de Recherche Mathématique Avancées, Strasbourg, France. September 17th, 2024.<br>
 Talk given: The scheme of double shuffle and distribution relations of multiple polylogarithm values at roots of unity and a conjecture of Zhao.
