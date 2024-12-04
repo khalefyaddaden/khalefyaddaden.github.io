@@ -17,7 +17,7 @@ nav_order: 2
 
 
 ## Preprints
-<div class="publications">
+<div class="preprints">
 
 {% bibliography/preprints %}
 
