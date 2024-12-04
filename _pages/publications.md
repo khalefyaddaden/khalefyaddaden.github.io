@@ -15,7 +15,6 @@ nav_order: 2
 
 </div>
 
-<hr/>
 
 ## Preprints
 <div class="publications">
@@ -24,9 +23,10 @@ nav_order: 2
 
 </div>
 
+## Theses
+
 <hr/>
 
-## Theses
 
 - **[Algebraic structures associated to double shuffle relations between multiple polylogrithm values at roots of unity](https://theses.hal.science/tel-04017713)** (PhD thesis, 2023).
 
