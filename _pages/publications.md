@@ -11,7 +11,7 @@ nav_order: 2
 <!-- _pages/publications.md -->
 <div class="publications">
 
-{% bibliography/papers %}
+{% papers %}
 
 </div>
 
@@ -20,7 +20,7 @@ nav_order: 2
 ## Preprints
 <div class="preprints">
 
-{% bibliography/preprints %}
+{% preprints %}
 
 </div>
 
