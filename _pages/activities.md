@@ -11,6 +11,8 @@ nav_order: 3
 
 #### 2024
 
+- <img src="/assets/img/flags/jap.png" width="20" height="20"> [Kansai Multiple Zeta Research Group](https://sites.google.com/site/kmzsince2011). Tohoku University, Sendai, Japan. December 07th, 2024 - December 08th, 2024.
+
 - <img src="/assets/img/flags/jap.png" width="20" height="20"> [2nd Kindai Workshop: Multiple Zeta Values and Modular Forms](https://www.math.kindai.ac.jp/laboratory/tasaka/2ndKindaiWS). Kindai University, Osaka, Japan. November 08th, 2024 - November 10th, 2024.
 
 - <img src="/assets/img/flags/fr.png" width="20" height="20"> [Algebra and Topology](https://irma.math.unistra.fr/seminaires/seminaire-algebre-et-topologie-2024.html) Seminar. Institut de Recherche Mathématique Avancées, Strasbourg, France. September 17th, 2024.<br>
@@ -37,7 +39,7 @@ Talk given: Scheme correspondance related to the double shuffle relations betwee
 
 - <img src="/assets/img/flags/india.png" width="20" height="20"> [Grothendieck-Teichmüler Theory](https://www.icts.res.in/discussion-meeting/gt) Discussion meeting. International Centre for Theoretical Sciences, Bengaluru, India. February 26th, 2024 - March 1st, 2024.
 
-- <img src="/assets/img/flags/jap.png" width="20" height="20"> [The 17th Young Mathematicians Conference on Zeta Functions](https://sites.google.com/view/zetawakate17eng/home). Kyushu University, Hakata, Japan. February 15th, 2024 - February 18th, 2024.<br>
+- <img src="/assets/img/flags/jap.png" width="20" height="20"> [The 17th Young Mathematicians Conference on Zeta Functions](https://sites.google.com/view/zetawakate17eng/home). Kyushu University, Fukuoka, Japan. February 15th, 2024 - February 18th, 2024.<br>
 Talk given: Double shuffle torsor of cyclotomic MZVs and stabilizers of de Rham and Betti coproducts.
 
 - <img src="/assets/img/flags/jap.png" width="20" height="20"> [Aichi Number Theory Seminar](https://ants.gmath.meijo-u.ac.jp/%E8%A8%98%E9%8C%B2/2023%E3%81%8B%E3%82%89%E3%81%AE%E8%A8%98%E9%8C%B2). Nagoya University, Nagoya, Japan. January 27th, 2024.
