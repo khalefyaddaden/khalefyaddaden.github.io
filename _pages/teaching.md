@@ -13,7 +13,7 @@ nav_order: 4
 
 #### Spring 2023
 
-- [Elementary mathematics](https://mathinfo.unistra.fr/formations/licence/mathematiques/parcours-licence-1-mathematiques-informatique-parcours-mathematique-PR27-18121/cours-mathematiques-elementaires-EN896-18121-PR27) (1st Year B. Sc. students in mathematics and computer science, 26h).
+- [Elementary mathematics](https://mathinfo.unistra.fr/formations/licence/mathematiques/odf-parcours-mathematiques-fondamentales-mf-PR908-18121/odf-cours-EN896-18121-PR908/) (1st Year B. Sc. students in mathematics and computer science, 26h).
 
 - [Linear algebra](https://mathinfo.unistra.fr/formations/licence/mathematiques/parcours-licence-1-mathematiques-informatique-parcours-mathematique-PR27-18121/cours-algebre-lineaire-LJD1DXB7-18121-PR27) (1st Year B. Sc. students in mathematics and computer science, 52h).
 
