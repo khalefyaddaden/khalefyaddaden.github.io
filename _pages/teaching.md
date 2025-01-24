@@ -13,41 +13,41 @@ nav_order: 4
 
 #### Spring 2023
 
-- [Elementary mathematics](https://mathinfo.unistra.fr/formations/licence/mathematiques/odf-parcours-mathematiques-fondamentales-mf-PR908-18121/odf-cours-EN896-18121-PR908/) (1st Year B. Sc. students in mathematics and computer science, 26h).
+- [Elementary mathematics](https://mathinfo.unistra.fr/formations/licence/mathematiques/odf-parcours-mathematiques-fondamentales-mf-PR908-18121/odf-cours-EN896-18121-PR908) (1st Year B. Sc. students in mathematics and computer science, 26h).
 
-- [Linear algebra](https://mathinfo.unistra.fr/formations/licence/mathematiques/parcours-licence-1-mathematiques-informatique-parcours-mathematique-PR27-18121/cours-algebre-lineaire-LJD1DXB7-18121-PR27) (1st Year B. Sc. students in mathematics and computer science, 52h).
+- [Linear algebra](https://mathinfo.unistra.fr/formations/licence/mathematiques/odf-parcours-mathematiques-fondamentales-mf-PR908-18121/odf-cours-LJD1DXB7-18121-PR908) (1st Year B. Sc. students in mathematics and computer science, 52h).
 
-- [Algebra: Rings and fields](https://mathinfo.unistra.fr/formations/licence/mathematiques/parcours-mathematiques-fondamentales-mf-l3-PR908-18121/cours-algebre-s6-EN28910-18121-PR908) (3rd Year BSc students in mathematics, 34h).
+- [Algebra: Rings and fields](https://mathinfo.unistra.fr/formations/licence/mathematiques/odf-parcours-mathematiques-fondamentales-mf-PR908-18121/odf-cours-EN28910-18121-PR908) (3rd Year BSc students in mathematics, 34h).
 
 #### Fall 2022
 
-- [Algebra: Matrices and arithmetic](https://mathinfo.unistra.fr/formations/licence/mathematiques/parcours-licence-1-mathematiques-informatique-parcours-mathematique-PR27-18121/cours-algebre-s1-EN897-18121-PR27) (1st Year B. Sc. students in mathematics and computer science, 35h).
+- [Algebra: Matrices and arithmetic](https://mathinfo.unistra.fr/formations/licence/mathematiques/odf-parcours-mathematiques-fondamentales-mf-PR908-18121/odf-cours-EN897-18121-PR908) (1st Year B. Sc. students in mathematics and computer science, 35h).
 
 **Between October 2019 and May 2022**: I carried out teaching missions at *UFR de Mathématiques et Informatique* of the University of Strasbourg (France). Repartition of my teachings during the two semesters of the universitary year is as follows:
 
 #### Spring 2022
 
-- [Algebra : Rings and fields](https://mathinfo.unistra.fr/formations/licence/mathematiques/parcours-mathematiques-fondamentales-mf-l3-PR908-18121/cours-algebre-s6-EN28910-18121-PR908) (3rd Year BSc students in mathematics, 34h).
+- [Algebra : Rings and fields](https://mathinfo.unistra.fr/formations/licence/mathematiques/odf-parcours-mathematiques-fondamentales-mf-PR908-18121/odf-cours-EN28910-18121-PR908) (3rd Year BSc students in mathematics, 34h).
 
 #### Fall 2021
 
-- [Elementary mathematics](https://mathinfo.unistra.fr/formations/licence/mathematiques/parcours-licence-1-mathematiques-informatique-parcours-mathematique-PR27-18121/cours-mathematiques-elementaires-EN896-18121-PR27) (1st Year B. Sc. students in mathematics and computer science, 24h).
+- [Elementary mathematics](https://mathinfo.unistra.fr/formations/licence/mathematiques/odf-parcours-mathematiques-fondamentales-mf-PR908-18121/odf-cours-EN896-18121-PR908) (1st Year B. Sc. students in mathematics and computer science, 24h).
 
 #### Spring 2021
 
-- [Algebra : Rings and fields](https://mathinfo.unistra.fr/formations/licence/mathematiques/parcours-mathematiques-fondamentales-mf-l3-PR908-18121/cours-algebre-s6-EN28910-18121-PR908) (3rd Year BSc students in mathematics, 34h).
+- [Algebra : Rings and fields](https://mathinfo.unistra.fr/formations/licence/mathematiques/odf-parcours-mathematiques-fondamentales-mf-PR908-18121/odf-cours-EN28910-18121-PR908) (3rd Year BSc students in mathematics, 34h).
 
 #### Fall 2020
 
-- [Elementary mathematics](https://mathinfo.unistra.fr/formations/licence/mathematiques/parcours-licence-1-mathematiques-informatique-parcours-mathematique-PR27-18121/cours-mathematiques-elementaires-EN896-18121-PR27) (1st Year B. Sc. students in mathematics and computer science, 26h).
+- [Elementary mathematics](https://mathinfo.unistra.fr/formations/licence/mathematiques/odf-parcours-mathematiques-fondamentales-mf-PR908-18121/odf-cours-EN896-18121-PR908) (1st Year B. Sc. students in mathematics and computer science, 26h).
 
 #### Spring 2020
 
-- [Algebra : Rings and fields](https://mathinfo.unistra.fr/formations/licence/mathematiques/parcours-mathematiques-fondamentales-mf-l3-PR908-18121/cours-algebre-s6-EN28910-18121-PR908) (3rd Year BSc students in mathematics, 34h).
+- [Algebra : Rings and fields](https://mathinfo.unistra.fr/formations/licence/mathematiques/odf-parcours-mathematiques-fondamentales-mf-PR908-18121/odf-cours-EN28910-18121-PR908) (3rd Year BSc students in mathematics, 34h).
 
 #### Fall 2019
 
-- [Elementary mathematics](https://mathinfo.unistra.fr/formations/licence/mathematiques/parcours-licence-1-mathematiques-informatique-parcours-mathematique-PR27-18121/cours-mathematiques-elementaires-EN896-18121-PR27) (1st Year B. Sc. students in mathematics and computer science, 24h).
+- [Elementary mathematics](https://mathinfo.unistra.fr/formations/licence/mathematiques/odf-parcours-mathematiques-fondamentales-mf-PR908-18121/odf-cours-EN896-18121-PR908) (1st Year B. Sc. students in mathematics and computer science, 24h).
 
 #### Academic year 2018/2019
 
