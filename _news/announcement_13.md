@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Speaker for the [Colloque tournant du RT algèbre](https://indico.math.cnrs.fr/event/13314/) at University of Clermont Auvergne.
+Invited speaker for the [Colloque tournant du RT algèbre](https://indico.math.cnrs.fr/event/13314/) at University of Clermont Auvergne.
