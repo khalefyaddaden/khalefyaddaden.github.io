@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Invited Speaker for the 4nd International Workshop on Multiple Zeta Values and Related Fields at Tongji University, Shanghai, China.
+Invited speaker for the 4nd International Workshop on Multiple Zeta Values and Related Fields at Tongji University, Shanghai, China.
