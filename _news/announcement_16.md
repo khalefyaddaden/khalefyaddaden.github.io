@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Invited speaker for the [Around associators: from integrable systems to number theory](https://swissmaprs.ch/events/around-associators-from-integrable-systems-to-number-theory/) conference at Les Diablerets, Switzerland.
+Invited speaker for the [Around associators: from integrable systems to number theory](https://indico.global/event/13900) conference at Les Diablerets, Switzerland.
