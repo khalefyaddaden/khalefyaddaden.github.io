@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-[Lectures on multiple zeta values and beyond](https://sites.google.com/view/the-17th-msj-siw1?usp=sharing) at Kyushu University.
+[Lectures on multiple zeta values and beyond](https://sites.google.com/view/the-17th-msj-siw1?usp=sharing) at Kyushu University, Fukuoka, Japan.
