@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Speaker for the [Algebraic and Combinatorial Perspectives in the Mathematical Sciences](https://www.math.ntnu.no/acpms/) online seminar.
+Invited speaker for the [Algebraic and Combinatorial Perspectives in the Mathematical Sciences](https://www.math.ntnu.no/acpms/) online seminar.
