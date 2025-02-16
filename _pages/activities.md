@@ -15,8 +15,6 @@ nav_order: 3
 
 #### 2024
 
-- <img src="/assets/img/flags/jap.png" width="20" height="20"> [Lectures on multiple zeta values and beyond](https://sites.google.com/view/the-17th-msj-siw1?usp=sharing). Kyushu University, Fukuoka, Japan. February 10th, 2024 - December 15th, 2024.
-
 - <img src="/assets/img/flags/jap.png" width="20" height="20"> [Kansai Multiple Zeta Research Group](https://sites.google.com/site/kmzsince2011). Tohoku University, Sendai, Japan. December 07th, 2024 - December 08th, 2024.
 
 - <img src="/assets/img/flags/jap.png" width="20" height="20"> [2nd Kindai Workshop: Multiple Zeta Values and Modular Forms](https://www.math.kindai.ac.jp/laboratory/tasaka/2ndKindaiWS). Kindai University, Osaka, Japan. November 08th, 2024 - November 10th, 2024.
