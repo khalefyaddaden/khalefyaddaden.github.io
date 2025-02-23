@@ -11,6 +11,8 @@ nav_order: 3
 
 #### 2025
 
+- <img src="/assets/img/flags/jap.png" width="20" height="20"> [Modular Forms and Multiple Zeta Values](https://www.apu.ac.jp/~rintaro/MK60/indexE.html). Kindai University, Osaka, Japan. February 17th, 2025 - February 22th, 2025.
+
 - <img src="/assets/img/flags/jap.png" width="20" height="20"> [Lectures on multiple zeta values and beyond](https://sites.google.com/view/the-17th-msj-siw1?usp=sharing). Kyushu University, Fukuoka, Japan. February 10th, 2025 - February 15th, 2025.
 
 #### 2024
