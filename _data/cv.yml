@@ -52,6 +52,9 @@
 - title: Memberships
   type: time_table
   contents:
+    - year: Since 2024
+      description:
+        - Reviewer for Mathematical Reviews.
     - year: Since 2022
       description:
         - Young researcher in the ``<a href="https://ahgt.math.cnrs.fr/" target="_blank">Arithmetic and Homotopic Galois Theory</a>'' International Research Network
