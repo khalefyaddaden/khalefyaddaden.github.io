@@ -11,6 +11,9 @@ nav_order: 3
 
 #### 2025
 
+- <img src="/assets/img/flags/jap.png" width="20" height="20"> [Osaka University Seminar on Number Theory and Modular Forms](http://www4.math.sci.osaka-u.ac.jp/~ogawa/seminar). Osaka University, Osaka, Japan. June 06th, 2025.<br>
+Talk given: Schemes of double shuffle and distribution relations among cyclotomic multiple zeta values.
+
 - <img src="/assets/img/flags/visio.png" width="20" height="20"> [Algebraic and Combinatorial Perspectives in the Mathematical Sciences](https://www.math.ntnu.no/acpms/view_talk.html?id=177). Web seminar. March 14th, 2025.<br>
 Talk given: Schemes of double shuffle and distribution relations among cyclotomic multiple zeta values.
 
