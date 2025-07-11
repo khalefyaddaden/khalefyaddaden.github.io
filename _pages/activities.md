@@ -12,6 +12,7 @@ nav_order: 3
 #### 2025
 
 - <img src="/assets/img/flags/jap.png" width="20" height="20"> [24th Sendai-Hiroshima Number Theory Conference](https://math0.pm.tokushima-u.ac.jp/~hiroki/hiroshima25.html). Tohoku University, Sendai, Japan. July 08th, 2025 - July 10th, 2025.
+Talk given: The double shuffle Lie algebra of congruent multiple zeta values.
 
 - <img src="/assets/img/flags/jap.png" width="20" height="20"> [Kansai Multiple Zeta Workshop](https://sites.google.com/site/kmzsince2011/). Kindai University, Osaka, Japan. June 07th, 2025.
 
