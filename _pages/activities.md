@@ -11,6 +11,9 @@ nav_order: 3
 
 #### 2025
 
+- <img src="/assets/img/flags/visio.png" width="20" height="20"> [4th International Workshop on Multiple Zeta Values and Related Fields](https://multizetacafe.github.io/shanghai2025) Tongji University, Shanghai, China. Web seminar. July 12th, 2025 - July 16th, 2025.<br>
+Talk given: A proof of a conjecture of Zhao on weight 2 distribution relations of cyclotomic multiple zeta values.
+
 - <img src="/assets/img/flags/jap.png" width="20" height="20"> [24th Sendai-Hiroshima Number Theory Conference](https://math0.pm.tokushima-u.ac.jp/~hiroki/hiroshima25.html). Tohoku University, Sendai, Japan. July 08th, 2025 - July 10th, 2025.<br>
 Talk given: The double shuffle Lie algebra of congruent multiple zeta values.
 
