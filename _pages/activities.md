@@ -12,7 +12,7 @@ nav_order: 3
 #### 2025
 
 - <img src="/assets/img/flags/jap.png" width="20" height="20"> [Kagoshima Mould Seminar](https://www.math.nagoya-u.ac.jp/~furusho/conference/2025kagoshima-mould.html). Kagoshima University, Kagoshima, Japan. August 22nd, 2025 - August 25th, 2025.<br>
-Talk given: Bimoulds, Flexions and basic dimorphic algebras (Chapter 2 of J. Ecalle, [The flexion structure and dimorphy: flexion units, singulators, generators, and the enumeration of multizeta irreducibles](https://www.imo.universite-paris-saclay.fr/~jean.ecalle/fichiersweb/WEB_flexions_2.pdf)).
+Talk given: Bimoulds, Flexions and basic dimorphic Lie algebras (Chapter 2 of J. Ecalle, [The flexion structure and dimorphy: flexion units, singulators, generators, and the enumeration of multizeta irreducibles](https://www.imo.universite-paris-saclay.fr/~jean.ecalle/fichiersweb/WEB_flexions_2.pdf)).
 
 - <img src="/assets/img/flags/visio.png" width="20" height="20"> [4th International Workshop on Multiple Zeta Values and Related Fields](https://multizetacafe.github.io/shanghai2025) Tongji University, Shanghai, China. Web seminar. July 12th, 2025 - July 16th, 2025.<br>
 Talk given: A proof of a conjecture of Zhao on weight 2 distribution relations of cyclotomic multiple zeta values.
