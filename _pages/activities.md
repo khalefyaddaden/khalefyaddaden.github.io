@@ -11,6 +11,9 @@ nav_order: 3
 
 #### 2025
 
+- <img src="/assets/img/flags/suis.png" width="20" height="20"> [Around associators: from integrable systems to number theory](https://indico.global/event/13900) Conference for Benjamin Enriquez 6Oth anniversary. SwissMap Research Station, Les Diablerets, Switzerland. September 15th, 2025 - September 18th, 2025.<br>
+Talk given: Bimodules with factorization structures and geometry of the harmonic coproduct.
+
 - <img src="/assets/img/flags/jap.png" width="20" height="20"> [Kagoshima Mould Seminar](https://www.math.nagoya-u.ac.jp/~furusho/conference/2025kagoshima-mould.html). Kagoshima University, Kagoshima, Japan. August 22nd, 2025 - August 25th, 2025.<br>
 Talk given: Bimoulds, Flexions and basic dimorphic Lie algebras (Chapter 2 of J. Ecalle, [The flexion structure and dimorphy: flexion units, singulators, generators, and the enumeration of multizeta irreducibles](https://www.imo.universite-paris-saclay.fr/~jean.ecalle/fichiersweb/WEB_flexions_2.pdf)).
 
@@ -26,7 +29,7 @@ Talk given: The double shuffle Lie algebra of congruent multiple zeta values.
 Talk given: Schemes of double shuffle and distribution relations among cyclotomic multiple zeta values.
 
 - <img src="/assets/img/flags/visio.png" width="20" height="20"> [Algebraic and Combinatorial Perspectives in the Mathematical Sciences](https://www.math.ntnu.no/acpms/view_talk.html?id=177). Web seminar. March 14th, 2025.<br>
-Talk given: Schemes of double shuffle and distribution relations among cyclotomic multiple zeta values.
+Talk given: Schemes of double shuffle and distribution relations among cyclotomic multiple zeta values ([Presentation video](https://www.youtube.com/watch?v=uXjBXoifGCQ)).
 
 - <img src="/assets/img/flags/fr.png" width="20" height="20"> [Colloque tournant du Réseau Thématique Algèbre](https://indico.math.cnrs.fr/event/13314/). University of Clermont Auvergne, Clermont-Ferrand, France. March 05th, 2025 - March 07th, 2025.<br>
 Talk given: Schemes of double shuffle and distribution relations among cyclotomic multiple zeta values.
