@@ -11,6 +11,9 @@ nav_order: 3
 
 #### 2025
 
+- <img src="/assets/img/flags/jap.png" width="20" height="20"> [Various Aspects of Multiple Zeta Values](https://sites.google.com/view/rimsmzv2025/home) at Research Institute for Mathematical Sciences, Kyoto University, Kyoto, Japan. September 30th, 2025 - October 03rd, 2025.<br>
+Talk given: The double shuffle Lie algebra of congruent multiple zeta values.
+
 - <img src="/assets/img/flags/suis.png" width="20" height="20"> [Around associators: from integrable systems to number theory](https://indico.global/event/13900) Conference for Benjamin Enriquez 6Oth anniversary. SwissMap Research Station, Les Diablerets, Switzerland. September 15th, 2025 - September 18th, 2025.<br>
 Talk given: Bimodules with factorization structures and geometry of the harmonic coproduct.
 
