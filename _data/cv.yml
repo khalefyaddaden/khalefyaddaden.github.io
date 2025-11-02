@@ -1,9 +1,13 @@
 - title: Professional Experience
   type: time_table
   contents:
+    - title: Temporary research and teaching assistant
+      institution: <a href="https://mathinfo.unistra.fr/" target="_blank">UFR des Sciences, University of Caen-Normandie, Caen, France
+      year: 01.11.2025 - today
+      
     - title: JSPS Postdoctoral research fellow
       institution: <a href="https://www.math.nagoya-u.ac.jp/en/index.html" target="_blank">Graduate School of Mathematics</a>, Nagoya University, Nagoya, Japan
-      year: 01.11.2023 - Today
+      year: 01.11.2023 - 31.10.2025
       description:
         - Geometry of double shuffle relations of multiple L values
 
@@ -13,11 +17,11 @@
       description:
         - Colaborative research on the relations between braid groups and the Betti side of the double shuffle theory
 
-    - title: Attaché Temporaire d'Enseignement et Recherche (Teaching Assistant)
+    - title: Temporary research and teaching assistant
       institution: <a href="https://mathinfo.unistra.fr/" target="_blank">UFR de Mathématiques et Informatique</a>, University of Strasbourg, Strasbourg, France
       year: 01.10.2022 - 31.08.2023
 
-    - title: Teaching Assistant
+    - title: Teaching‑appointed PhD candidate
       institution: <a href="https://lyc-bloch-bischheim.site.ac-strasbourg.fr/wordpress/" target="_blank">Marc Bloch High School</a>, Bischheim, France
       year: 01.10.2018 - 30.09.2019
 
