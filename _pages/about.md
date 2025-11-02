@@ -2,7 +2,7 @@
 layout: about
 title: Home
 permalink: /
-subtitle: Address. Science Building A, Room 239. Graduate School of Mathematics, Nagoya University. Chikusa-ku, Nagoya, 464-8602 Japan.
+subtitle: Address. TBA # Science Building A, Room 239. Graduate School of Mathematics, Nagoya University. Chikusa-ku, Nagoya, 464-8602 Japan.
 
 profile:
   align: right
