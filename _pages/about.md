@@ -2,7 +2,7 @@
 layout: about
 title: Home
 permalink: /
-subtitle: Address. TBA # Science Building A, Room 239. Graduate School of Mathematics, Nagoya University. Chikusa-ku, Nagoya, 464-8602 Japan.
+subtitle: Address. Science 3 Building, Room 243. UFR des sciences, University of Caen-Normandie, 14032 Caen, France.
 
 profile:
   align: right
