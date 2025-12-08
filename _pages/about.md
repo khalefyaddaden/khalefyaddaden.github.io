@@ -18,7 +18,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am a temporary research and teaching assistant at University of Caen-Normandie (France). I teach within the [UFR des Sciences](https://ufr-sciences.unicaen.fr), and I am a member of the [GRAAL](https://lmno.unicaen.fr/decouvrir/organisation/equipe-geometrie-representations-algebre-analyse-logique-graal) research team at the [Laboratoire de Mathématiques Nicolas Oresme](https://lmno.unicaen.fr).
+I am a temporary research and teaching assistant at University of Caen Normandy (France). I teach within the [UFR des Sciences](https://ufr-sciences.unicaen.fr), and I am a member of the [GRAAL](https://lmno.unicaen.fr/decouvrir/organisation/equipe-geometrie-representations-algebre-analyse-logique-graal) research team at the [Laboratoire de Mathématiques Nicolas Oresme](https://lmno.unicaen.fr).
 
 Before that I was a [JSPS](https://www.jsps.go.jp/english/e-aboutus/index.html) Postdoctoral Research fellow in the Graduate School of Mathematics of Nagoya University (Japan) under Professor [Hidekazu Furusho](https://www.math.nagoya-u.ac.jp/~furusho/).
 
