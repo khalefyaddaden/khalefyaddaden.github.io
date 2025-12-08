@@ -11,6 +11,9 @@ nav_order: 3
 
 #### 2025
 
+- <img src="/assets/img/flags/fr.png" width="20" height="20"> [Séminaire d’algèbre et de géométrie](https://lmno.unicaen.fr/seminaires/seminaire-dalgebre-et-de-geometrie/). Laboratoire de Mathématiques Nicolas Oresme, Caen, France. December 02nd, 2025.<br>
+Talk given: Bimodules with factorization structures and geometry of the harmonic coproduct.
+
 - <img src="/assets/img/flags/jap.png" width="20" height="20"> Multiple Zeta Values Monthly Seminar (organized by [Hidekazu Furusho](https://www.math.nagoya-u.ac.jp/~furusho/)). Nagoya University, Nagoya, Japan. October 29th, 2025.<br>
 Talk given: Bimodules with factorization structures and geometry of the harmonic coproduct.
 
