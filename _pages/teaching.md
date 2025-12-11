@@ -9,7 +9,7 @@ nav_order: 4
 
 ## Teaching
 
-**Between November 2025 and today**: I am working as a temporary teaching and research assistant at the *UFR des Sciences* of the University of Caen Normandy (France). Repartition of my teachings during the two semesters of the universitary year is as follows:
+**Between November 2025 and today**: I am working as a temporary research and teaching assistant at the *UFR des Sciences* of the University of Caen Normandy (France). Repartition of my teachings during the two semesters of the universitary year is as follows:
 
 #### Spring 2026
 
@@ -17,11 +17,11 @@ TBA
 
 #### Fall 2025
 
-- [Analysis 1](https://uniform.unicaen.fr/catalogue/formation/licences/7051-licence-mathematiques-et-informatique-appliquees-aux-shs?s=SCIENCES) (1st Year B. Sc. students in Mathematics and Computer Science Applied to the Humanities and Social Sciences, ??h).
-- [General Mathematics](https://uniform.unicaen.fr/catalogue/formation/l/5615-licence-informatique) (1st Year B. Sc. students in Computer Science, ??h).
-- [Mathematical Tools](https://uniform.unicaen.fr/catalogue/formation/licences/5716-licence-sciences-de-la-vie-et-de-la-terre?s=SCIENCES) (1st Year B. Sc. students in Life and Earth Sciences, ??h).
+- [Analysis 1](https://uniform.unicaen.fr/catalogue/formation/licences/7051-licence-mathematiques-et-informatique-appliquees-aux-shs?s=SCIENCES) (1st Year B. Sc. students in Mathematics and Computer Science Applied to the Humanities and Social Sciences, 18h).
+- [General Mathematics](https://uniform.unicaen.fr/catalogue/formation/l/5615-licence-informatique) (1st Year B. Sc. students in Computer Science, 10h).
+- [Mathematical Tools](https://uniform.unicaen.fr/catalogue/formation/licences/5716-licence-sciences-de-la-vie-et-de-la-terre?s=SCIENCES) (1st Year B. Sc. students in Life and Earth Sciences, 06h).
 
-**Between October 2022 and June 2023**: I worked as a temporary teaching and research assistant at the *UFR de Mathématiques et Informatique* of the University of Strasbourg (France). Repartition of my teachings during the two semesters of the universitary year is as follows:
+**Between October 2022 and June 2023**: I worked as a temporary research and teaching assistant at the *UFR de Mathématiques et Informatique* of the University of Strasbourg (France). Repartition of my teachings during the two semesters of the universitary year is as follows:
 
 #### Spring 2023
 
@@ -35,11 +35,11 @@ TBA
 
 - [Algebra: Matrices and arithmetic](https://mathinfo.unistra.fr/formations/licence/mathematiques/odf-parcours-mathematiques-fondamentales-mf-PR908-18121/odf-cours-EN897-18121-PR908) (1st Year B. Sc. students in mathematics and computer science, 35h).
 
-**Between October 2019 and May 2022**: I carried out teaching missions at *UFR de Mathématiques et Informatique* of the University of Strasbourg (France). Repartition of my teachings during the two semesters of the universitary year is as follows:
+**Between October 2019 and May 2022**: I carried out "teaching missions" at *UFR de Mathématiques et Informatique* of the University of Strasbourg (France). Repartition of my teachings during the two semesters of the universitary year is as follows:
 
 #### Spring 2022
 
-- [Algebra : Rings and fields](https://mathinfo.unistra.fr/formations/licence/mathematiques/odf-parcours-mathematiques-fondamentales-mf-PR908-18121/odf-cours-EN28910-18121-PR908) (3rd Year BSc students in mathematics, 34h).
+- [Algebra: Rings and fields](https://mathinfo.unistra.fr/formations/licence/mathematiques/odf-parcours-mathematiques-fondamentales-mf-PR908-18121/odf-cours-EN28910-18121-PR908) (3rd Year BSc students in mathematics, 34h).
 
 #### Fall 2021
 
@@ -47,7 +47,7 @@ TBA
 
 #### Spring 2021
 
-- [Algebra : Rings and fields](https://mathinfo.unistra.fr/formations/licence/mathematiques/odf-parcours-mathematiques-fondamentales-mf-PR908-18121/odf-cours-EN28910-18121-PR908) (3rd Year BSc students in mathematics, 34h).
+- [Algebra: Rings and fields](https://mathinfo.unistra.fr/formations/licence/mathematiques/odf-parcours-mathematiques-fondamentales-mf-PR908-18121/odf-cours-EN28910-18121-PR908) (3rd Year BSc students in mathematics, 34h).
 
 #### Fall 2020
 
@@ -55,7 +55,7 @@ TBA
 
 #### Spring 2020
 
-- [Algebra : Rings and fields](https://mathinfo.unistra.fr/formations/licence/mathematiques/odf-parcours-mathematiques-fondamentales-mf-PR908-18121/odf-cours-EN28910-18121-PR908) (3rd Year BSc students in mathematics, 34h).
+- [Algebra: Rings and fields](https://mathinfo.unistra.fr/formations/licence/mathematiques/odf-parcours-mathematiques-fondamentales-mf-PR908-18121/odf-cours-EN28910-18121-PR908) (3rd Year BSc students in mathematics, 34h).
 
 #### Fall 2019
 
