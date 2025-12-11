@@ -17,9 +17,11 @@ TBA
 
 #### Fall 2025
 
-- [Analysis 1](https://uniform.unicaen.fr/catalogue/formation/licences/7051-licence-mathematiques-et-informatique-appliquees-aux-shs?s=SCIENCES) (1st Year B. Sc. students in Mathematics and Computer Science Applied to the Humanities and Social Sciences, 18h).
-- [General Mathematics](https://uniform.unicaen.fr/catalogue/formation/l/5615-licence-informatique) (1st Year B. Sc. students in Computer Science, 10h).
-- [Mathematical Tools](https://uniform.unicaen.fr/catalogue/formation/licences/5716-licence-sciences-de-la-vie-et-de-la-terre?s=SCIENCES) (1st Year B. Sc. students in Life and Earth Sciences, 06h).
+- [Analysis: Limits, derivatives and numerical sequences](https://uniform.unicaen.fr/catalogue/formation/licences/7051-licence-mathematiques-et-informatique-appliquees-aux-shs?s=SCIENCES) (1st Year B. Sc. students in Mathematics and Computer Science Applied to the Humanities and Social Sciences, 18h).
+  
+- [General Mathematics: Derivatives and numerical sequences](https://uniform.unicaen.fr/catalogue/formation/l/5615-licence-informatique) (1st Year B. Sc. students in Computer Science, 10h).
+  
+- [Mathematical Tools: Integral calculus](https://uniform.unicaen.fr/catalogue/formation/licences/5716-licence-sciences-de-la-vie-et-de-la-terre?s=SCIENCES) (1st Year B. Sc. students in Life and Earth Sciences, 06h).
 
 **Between October 2022 and June 2023**: I worked as a temporary research and teaching assistant at the *UFR de Mathématiques et Informatique* of the University of Strasbourg (France). Repartition of my teachings during the two semesters of the universitary year is as follows:
 
