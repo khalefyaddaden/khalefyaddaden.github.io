@@ -2,7 +2,7 @@
   type: time_table
   contents:
     - title: Temporary research and teaching assistant
-      institution: <a href="https://mathinfo.unistra.fr/" target="_blank">UFR des Sciences, University of Caen-Normandie, Caen, France
+      institution: <a href="https://ufr-sciences.unicaen.fr/" target="_blank">UFR des Sciences, University of Caen Normandy, Caen, France
       year: 01.11.2025 - today
       
     - title: JSPS Postdoctoral research fellow
@@ -61,13 +61,13 @@
         - Reviewer for Mathematical Reviews.
     - year: Since 2022
       description:
-        - Young researcher in the ``<a href="https://ahgt.math.cnrs.fr/" target="_blank">Arithmetic and Homotopic Galois Theory</a>'' International Research Network
-        - Temporary member of ``<a href="https://anr-highagt.pages.math.cnrs.fr/" target="_blank">Higher Algebra, Geometry, and Topology</a>'' Agence Nationale de Recherche
+        - Core member of the ``<a href="https://ahgt.math.cnrs.fr/" target="_blank">Arithmetic and Homotopic Galois Theory</a>'' International Research Network.
+        - Temporary member of ``<a href="https://anr-highagt.pages.math.cnrs.fr/" target="_blank">Higher Algebra, Geometry, and Topology</a>'' Agence Nationale de Recherche.
 
 - title: Languages
   type: map
   contents:
-    - name: Kabyle
+    - name: Berber
       value: Native speaker
     - name: French
       value: Fluent
@@ -77,3 +77,5 @@
       value: Fluent
     - name: Japanese
       value: Elementary
+    - name: German
+      value: Very elementary
