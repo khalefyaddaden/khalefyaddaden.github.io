@@ -2,7 +2,7 @@
 layout: about
 title: Home
 permalink: /
-subtitle: Address. Science 3 Building, Room 243. UFR des Sciences, University of Caen-Normandie (France).
+subtitle: Address. Science 3 Building, Room 243. UFR des Sciences, University of Caen Normandy (France).
 
 profile:
   align: right
@@ -22,6 +22,6 @@ I am a temporary research and teaching assistant at University of Caen Normandy 
 
 Before that I was a [JSPS](https://www.jsps.go.jp/english/e-aboutus/index.html) Postdoctoral Research fellow in the Graduate School of Mathematics of Nagoya University (Japan) under Professor [Hidekazu Furusho](https://www.math.nagoya-u.ac.jp/~furusho/).
 
-I did my Ph.D. in mathematics at the University of Strasbourg (France) under the supervision of Professor Benjamin Enriquez.
+I did my Ph.D. in mathematics at the University of Strasbourg (France) under the supervision of Professor [Benjamin Enriquez](https://mathscinet.ams.org/mathscinet/author?authorId=290594).
 
 I am interested in various aspects of multiple zeta values, their cyclotomic analogues the multiple polylogarithm values at roots of unity and their connections to associators and Grothendieck-Teïchmuller theory.
