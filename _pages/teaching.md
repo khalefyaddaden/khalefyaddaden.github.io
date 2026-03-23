@@ -9,11 +9,17 @@ nav_order: 4
 
 ## Teaching
 
-**Between November 2025 and today**: I am working as a temporary research and teaching assistant at the *UFR des Sciences* of the University of Caen Normandy (France). Repartition of my teachings during the two semesters of the universitary year is as follows:
+**From November 2025 until present**: I am working as a temporary research and teaching assistant at the *UFR des Sciences* of the University of Caen Normandy (France). Repartition of my teachings during the two semesters of the universitary year is as follows:
 
 #### Spring 2026
 
-TBA
+- [Algebra 4 : Euclidean spaces, affine spaces](https://uniform.unicaen.fr/catalogue/formation/l/5759-licence-mathematiques) (2nd Year B. Sc. students in Mathematics, 35h).
+  
+- [Algebra 2 : Matrices and linear maps](https://uniform.unicaen.fr/catalogue/formation/l/5759-licence-mathematiques) (1st Year B. Sc. students in Mathematics, 50h).
+  
+- [Mathematics complements : Reduction of endomorphisms](https://uniform.unicaen.fr/catalogue/formation/l/7296-licence-mathematiques-et-informatique-appliquees-aux-sciences-humaines-et-sociales--miashs) (2nd Year B. Sc. students in Preparatory Program for Primary School Teaching Certification (CRPE), 50h).
+  
+- [Statistics 4 : Linear regression and Hypothsis testing](https://uniform.unicaen.fr/catalogue/formation/l/5660-licence-sciences-de-la-vie) (2nd Year B. Sc. students in Biology and Earth Sciences, 15h).
 
 #### Fall 2025
 
@@ -21,9 +27,9 @@ TBA
   
 - [General Mathematics: Derivatives and numerical sequences](https://uniform.unicaen.fr/catalogue/formation/l/5615-licence-informatique) (1st Year B. Sc. students in Computer Science, 10h).
   
-- [Mathematical Tools: Integral calculus](https://uniform.unicaen.fr/catalogue/formation/licences/5716-licence-sciences-de-la-vie-et-de-la-terre?s=SCIENCES) (1st Year B. Sc. students in Life and Earth Sciences, 06h).
+- [Mathematical Tools: Integral calculus](https://uniform.unicaen.fr/catalogue/formation/licences/5716-licence-sciences-de-la-vie-et-de-la-terre?s=SCIENCES) (1st Year B. Sc. students in Biology and Earth Sciences, 06h).
 
-**Between October 2022 and June 2023**: I worked as a temporary research and teaching assistant at the *UFR de Mathématiques et Informatique* of the University of Strasbourg (France). Repartition of my teachings during the two semesters of the universitary year is as follows:
+**From October 2022 until August 2023**: I worked as a temporary research and teaching assistant at the *UFR de Mathématiques et Informatique* of the University of Strasbourg (France). Repartition of my teachings during the two semesters of the universitary year is as follows:
 
 #### Spring 2023
 
@@ -37,7 +43,7 @@ TBA
 
 - [Algebra: Matrices and arithmetic](https://mathinfo.unistra.fr/formations/licence/mathematiques/odf-parcours-mathematiques-fondamentales-mf-PR908-18121/odf-cours-EN897-18121-PR908) (1st Year B. Sc. students in mathematics and computer science, 35h).
 
-**Between October 2019 and May 2022**: I carried out "teaching missions" at *UFR de Mathématiques et Informatique* of the University of Strasbourg (France). Repartition of my teachings during the two semesters of the universitary year is as follows:
+**From October 2019 until September 2022**: I carried out "teaching missions" at *UFR de Mathématiques et Informatique* of the University of Strasbourg (France). Repartition of my teachings during the two semesters of the universitary year is as follows:
 
 #### Spring 2022
 
