@@ -23,6 +23,14 @@ nav_order: 2
 
 </div>
 
+
+## Proceedings  (non-refereed)
+<div class="publications">
+
+{% bibliography -f proceedings.bib %}
+
+</div>
+
 ## Theses
 
 
