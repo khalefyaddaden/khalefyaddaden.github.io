@@ -3,7 +3,7 @@
   contents:
     - title: Temporary research and teaching assistant
       institution: <a href="https://ufr-sciences.unicaen.fr/" target="_blank">UFR des Sciences, University of Caen Normandy, Caen, France
-      year: 01.11.2025 - today
+      year: 01.11.2025 - 31.08.2026
       
     - title: JSPS Postdoctoral research fellow
       institution: <a href="https://www.math.nagoya-u.ac.jp/en/index.html" target="_blank">Graduate School of Mathematics</a>, Nagoya University, Nagoya, Japan
@@ -56,10 +56,10 @@
 - title: Memberships
   type: time_table
   contents:
-    - year: Since 2024
+    - year: 2024 - present
       description:
         - Reviewer for Mathematical Reviews.
-    - year: Since 2022
+    - year: 2022 - present
       description:
         - Core member of the ``<a href="https://ahgt.math.cnrs.fr/" target="_blank">Arithmetic and Homotopic Galois Theory</a>'' International Research Network.
         - Temporary member of ``<a href="https://anr-highagt.pages.math.cnrs.fr/" target="_blank">Higher Algebra, Geometry, and Topology</a>'' Agence Nationale de Recherche.
@@ -67,7 +67,7 @@
 - title: Languages
   type: map
   contents:
-    - name: Berber
+    - name: Tamazight (Berber)
       value: Native speaker
     - name: French
       value: Fluent
@@ -78,4 +78,4 @@
     - name: Japanese
       value: Elementary
     - name: German
-      value: Very elementary
+      value: Elementary
