@@ -9,7 +9,7 @@ nav_order: 4
 
 ## Teaching
 
-**From November 2025 until present**: I am working as a temporary research and teaching assistant at the *UFR des Sciences* of the University of Caen Normandy (France). Repartition of my teachings during the two semesters of the universitary year is as follows:
+**From November 2025 until August 2026**: I am working as a temporary research and teaching assistant at the *UFR des Sciences* of the University of Caen Normandy (France). Repartition of my teachings during the two semesters of the universitary year is as follows:
 
 #### Spring 2026
 
