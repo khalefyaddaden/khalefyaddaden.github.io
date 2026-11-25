@@ -6,7 +6,7 @@ subtitle: Address. Institut de Recherche Mathématique Avancée, University of S
 
 profile:
   align: right
-  image: prof_pic2.jpg
+  image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
 [//]: # (Ceci est un commentaire)
 [//]: # (  more_info: >)
