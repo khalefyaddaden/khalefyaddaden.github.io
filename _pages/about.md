@@ -2,7 +2,7 @@
 layout: about
 title: Home
 permalink: /
-subtitle: Address. Science 3 Building, Room 243. UFR des Sciences, University of Caen Normandy (France).
+subtitle: Address. Institut de Recherche Mathématique Avancée, University of Strasbourg (France).
 
 profile:
   align: right
