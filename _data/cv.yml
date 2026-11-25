@@ -1,6 +1,10 @@
 - title: Professional Experience
   type: time_table
   contents:
+    - title: Associate researcher
+      institution: <a href="https://irma.math.unistra.fr/" target="_blank">Institut de Recherche Mathématique Avancée</a>, Strasbourg, France
+      year: 01.09.2026 - present
+      
     - title: Temporary research and teaching assistant
       institution: <a href="https://ufr-sciences.unicaen.fr/" target="_blank">UFR des Sciences, University of Caen Normandy, Caen, France
       year: 01.11.2025 - 31.08.2026
